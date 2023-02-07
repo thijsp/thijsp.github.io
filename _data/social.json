@@ -1,0 +1,18 @@
+[
+
+  {
+    "title": "Instagram",
+    "fa_icon": "fab fa-instagram-square",
+    "url": "https://www.instagram.com/timelapsingthikkes/?hl=en"
+  },
+  {
+    "title": "Linkedin",
+    "fa_icon": "fab fa-linkedin",
+    "url": "https://www.linkedin.com/in/thijspeirelinck"
+  },
+    {
+    "title": "Mastodon",
+    "fa_icon": "fab fa-mastodon",
+    "url": "https://photog.social/@thijspeirelinck"
+  },
+]
