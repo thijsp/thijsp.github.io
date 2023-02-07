@@ -12,6 +12,7 @@ collections_dir: collections
 plugins:
   - jekyll-environment-variables
   - jekyll-paginate
+  - jekyll-seo-tag
 
 paginate: 6
 paginate_path: "/blog/page/:num"
@@ -99,23 +100,39 @@ fonts:
   monospace: "Fira Mono"
   logo: "DM Sans"
 
-logo:
-  logo_text: "Thijs Peirelinck - Home"
-  logo_image: assets/images/logo/logo.png
-  logo_image_mobile: assets/images/logo/logo-mobile.png
-  logo_image_invert: assets/images/logo/logo-invert.png
-  logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
-  logo_image_desktop_height: "28px"
-  logo_image_desktop_width: "28px"
-  logo_image_mobile_height: "28px"
-  logo_image_mobile_width: "28px"
-  show_logo_image_on_mobile: true
-  show_logo_image_on_desktop: true
-  show_logo_text_on_mobile: false
-  show_logo_text_on_desktop: false
+# logo:
+#   logo_text: "Thijs Peirelinck - Home"
+#   logo_image: assets/images/logo/logo.png
+#   logo_image_mobile: assets/images/logo/logo-mobile.png
+#   logo_image_invert: assets/images/logo/logo-invert.png
+#   logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
+#   logo_image_desktop_height: "28px"
+#   logo_image_desktop_width: "28px"
+#   logo_image_mobile_height: "28px"
+#   logo_image_mobile_width: "28px"
+#   show_logo_image_on_mobile: true
+#   show_logo_image_on_desktop: true
+#   show_logo_text_on_mobile: false
+#   show_logo_text_on_desktop: false
+
+logo: assets/images/logo/logo.png
+  
   
 header: 
   fixed: false
+  logo_text: "Thijs Peirelinck - Home"
+  header_logo_image: assets/images/logo/logo.png
+  header_logo_image_mobile: assets/images/logo/logo-mobile.png
+  header_logo_image_invert: assets/images/logo/logo-invert.png
+  header_logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
+  header_logo_image_desktop_height: "28px"
+  header_logo_image_desktop_width: "28px"
+  header_logo_image_mobile_height: "28px"
+  header_logo_image_mobile_width: "28px"
+  header_show_logo_image_on_mobile: true
+  header_show_logo_image_on_desktop: true
+  header_show_logo_text_on_mobile: false
+  header_show_logo_text_on_desktop: false
 
 darkmode:
   enable_dark_mode: true
@@ -140,6 +157,13 @@ contact_form:
 menu: 
   show_dropdown_items_in_mobile_menu: false
   show_social_media_in_mobile_menu: true
+
+social:
+  name: Thijs Peirelinck
+  links:
+    - https://www.instagram.com/timelapsingthikkes/?hl=en
+    - https://www.linkedin.com/in/thijspeirelinck
+    - https://photog.social/@thijspeirelinck
 
 footer:
   enable_footer: true # show/hide the entire footer
