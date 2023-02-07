@@ -2,9 +2,12 @@ main:
   - name: Home
     url: /
     weight: 1
+  - name: Publications
+    url: /publications/
+    weight: 4
   - name: Photography
     url: /projects/
-    weight: 2
+    weight: 3
     child:
       - name: "Portfolio"
         icon: "/assets/images/gen/projects/portfolio/thumbnail.jpeg"
@@ -23,7 +26,7 @@ main:
         url: /projects/
   - name: Blog
     url: /blog/
-    weight: 2
+    weight: 4
   
 
 footer_primary:
