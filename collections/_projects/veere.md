@@ -6,7 +6,7 @@ date: 2023-02-06
 weight: 10
 thumbnail: "/assets/images/gen/projects/veere/veere-7.jpg"
 image: "/assets/images/gen/projects/veere/veere-7.jpg"
-categories: ["Photography", "Landscapes"]
+categories: ["Photography", "Landscapes", "Travel"]
 location: "Zeeland, The Netherlands"
 gallery:
   - image: "/assets/images/gen/projects/veere/veere-1.jpg"
