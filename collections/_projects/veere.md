@@ -16,6 +16,10 @@ gallery:
   - image: "/assets/images/gen/projects/veere/veere-5.jpg"
   - image: "/assets/images/gen/projects/veere/veere-6.jpg"
   - image: "/assets/images/gen/projects/veere/veere-7.jpg"
+  - image: "/assets/images/gen/projects/veere/veere-8.jpg"
+  - image: "/assets/images/gen/projects/veere/veere-9.jpg"
+  - image: "/assets/images/gen/projects/veere/veere-10.jpg"
+  - image: "/assets/images/gen/projects/veere/veere-11.jpg"
 
 ---
 
