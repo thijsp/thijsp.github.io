@@ -69,5 +69,5 @@ permalink: "/links/"
 	Galleries
 </a> 
 </div>
-
+<a rel="me" href="https://photog.social/@thijspeirelinck"></a>
 
