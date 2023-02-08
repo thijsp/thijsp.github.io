@@ -13,12 +13,12 @@ main:
         icon: "/assets/images/gen/projects/portfolio/thumbnail.jpeg"
         icon_darkmode: "/assets/images/gen/projects/portfolio/thumbnail.jpeg"
         description: "My best images"
-        url: /projects/portfolio/
+        url: /portfolio/
       - name: "Belgian Landscapes"
         icon: "/assets/images/gen/projects/BelgianLandscapes/thumbnail.jpeg"
         icon_darkmode: "/assets/images/gen/projects/BelgianLandscapes/thumbnail.jpeg"
         description: "Belgian's finest landscapes"
-        url: /projects/belgian-landscapes/
+        url: /belgian-landscapes/
       - name: "More"
         icon: "/assets/images/gen/projects/thumbnail.jpeg"
         icon_darkmode: "/assets/images/gen/projects/thumbnail.jpeg"
