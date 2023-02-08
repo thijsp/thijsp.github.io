@@ -18,7 +18,7 @@ main:
         icon: "/assets/images/gen/projects/BelgianLandscapes/thumbnail.jpeg"
         icon_darkmode: "/assets/images/gen/projects/BelgianLandscapes/thumbnail.jpeg"
         description: "Belgian's finest landscapes"
-        url: /projects/BElandscapes/
+        url: /projects/belgian-landscapes/
       - name: "More"
         icon: "/assets/images/gen/projects/thumbnail.jpeg"
         icon_darkmode: "/assets/images/gen/projects/thumbnail.jpeg"
@@ -33,7 +33,7 @@ footer_primary:
   - name: "Portfolio"
     url: /projects/portfolio/
   - name: "Belgian Landscapes"
-    url: /projects/BElandscapes/
+    url: /projects/belgian-landscapes/
   - name: "All galleries"
     url: /projects/
 

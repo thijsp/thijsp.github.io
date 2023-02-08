@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: "Hi, I am <strong>Thijs Peirelinck</strong>, energy and AI researcher"
+title: "Hi, I am <strong>Thijs</strong>, <br>energy and AI researcher"
 description: "with a passion for timelapse and landscape photography."
 meta_description: "Intro Thijs Peirelinck"
 meta_title: Thijs Peirelinck

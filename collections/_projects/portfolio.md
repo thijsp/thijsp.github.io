@@ -2,7 +2,7 @@
 layout: project # alternative layouts: project, project-left, project-right, project-top
 title: "Portfolio"
 description: "A few of the dramatic landscpaes I have shot over the past couple of years."
-date: 2023-01-01
+date: 2022-01-01
 weight: 3
 thumbnail: "/assets/images/gen/projects/portfolio/thumbnail.jpeg"
 image: "/assets/images/gen/projects/portfolio/thumbnail.jpeg"

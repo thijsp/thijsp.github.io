@@ -2,11 +2,11 @@
 layout: project # alternative layouts: project, project-left, project-right, project-top
 title: "Belgian Landscapes"
 description: "A few of the my best Belgian landscape images."
-date: 2023-01-01
-weight: 3
+date: 2022-01-01
+weight: 1
 thumbnail: "/assets/images/gen/projects/BelgianLandscapes/thumbnail.jpeg"
 image: "/assets/images/gen/projects/BelgianLandscapes/thumbnail.jpeg"
-categories: ["photography", "Landscapes"]
+categories: ["Photography", "Landscapes"]
 location: "Belgium"
 gallery:
   - image: "/assets/images/gen/projects/BelgianLandscapes/BElandscapes-1.jpg"

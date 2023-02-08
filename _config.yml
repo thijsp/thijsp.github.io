@@ -132,7 +132,7 @@ header:
   header_show_logo_image_on_mobile: true
   header_show_logo_image_on_desktop: true
   header_show_logo_text_on_mobile: false
-  header_show_logo_text_on_desktop: false
+  header_show_logo_text_on_desktop: true
 
 darkmode:
   enable_dark_mode: true
