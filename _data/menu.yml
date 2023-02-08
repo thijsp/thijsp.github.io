@@ -31,9 +31,9 @@ main:
 
 footer_primary:
   - name: "Portfolio"
-    url: /projects/portfolio/
+    url: /portfolio/
   - name: "Belgian Landscapes"
-    url: /projects/belgian-landscapes/
+    url: /belgian-landscapes/
   - name: "All galleries"
     url: /projects/
 
