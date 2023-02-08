@@ -119,7 +119,7 @@ logo: assets/images/logo/logo.png
   
   
 header: 
-  fixed: false
+  fixed: true
   logo_text: "Thijs Peirelinck - Home"
   header_logo_image: assets/images/logo/logo.png
   header_logo_image_mobile: assets/images/logo/logo-mobile.png
