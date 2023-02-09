@@ -25,7 +25,5 @@ gallery:
   - image: "/assets/images/gen/projects/normandy/image-14.jpg"
   - image: "/assets/images/gen/projects/normandy/image-15.jpg"
   - image: "/assets/images/gen/projects/normandy/image-16.jpg"
-
+movie: "https://www.youtube.com/embed/pZk-soFBhUQ"
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pZk-soFBhUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
