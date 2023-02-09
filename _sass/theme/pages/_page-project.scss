@@ -55,6 +55,13 @@
     }
     .gallery-item {
       margin-bottom: $grid-gutter-width;
+      width: 50%;
+    }
+    @media screen and (max-width: 700px) {
+      .gallery-item {
+        margin-bottom: $grid-gutter-width;
+        width: 100%;
+      }
     }
   }
   .gallery-3 {
