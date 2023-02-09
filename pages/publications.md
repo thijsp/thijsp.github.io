@@ -2,6 +2,8 @@
 layout: basic
 title: Publications & CV
 permalink: "/publications/"
+meta_description: "My publications in scientific journals and conferences."
+meta_title: "Thijs Peirelinck - Publications and CV"
 ---
 
 ## Publications

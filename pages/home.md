@@ -3,8 +3,8 @@ layout: home
 permalink: "/"
 title: "Hi, I am <strong>Thijs</strong>, <br>energy and AI researcher"
 description: "with a passion for timelapse and landscape photography."
-meta_description: "Intro Thijs Peirelinck"
-meta_title: Thijs Peirelinck
+meta_description: "I am a Belgian Energy and AI Researcher. Additionally, I am a landscape and timelapse photographer. I love dramatic skies and vistas. In the past years I have taken many pictures of European and Belgian landscapes. This website shows both my research and photography work."
+meta_title: "Thijs Peirelinck | Energieonderzoeker en Landschapsfotograaf"
 subscribe: false
 
 posts:
