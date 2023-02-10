@@ -71,8 +71,20 @@
       overflow: hidden;
     }
   }
+  .gallery-4 {
+    grid-template-columns: 1fr 1fr;
+    .gallery-sizer {
+    }
+    .gallery-item {
+      margin-bottom: $grid-gutter-width;
+      width: 49%;
+    }
+  }
   .content {
     width: 90%;
+  }
+  .content-full {
+    width: 100%;
   }
   .project-image {
     img {
