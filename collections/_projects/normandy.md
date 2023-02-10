@@ -30,4 +30,4 @@ gallery:
 movie: "https://www.youtube.com/embed/pZk-soFBhUQ"
 ---
 
-The beaches of Noramdy are nowadays both dramatic and tranquil. However, they carry a lot of history. It was amazing to visit the war beaches and monuments. Reading the stories of the people that gave their live and, therefore, helped shape Europe as it is today is inspiring, yet makes you realize how incredibly fortunate we currenlty are. 
+The beaches of Normandy are nowadays both dramatic and tranquil. However, they carry a lot of history. It was amazing to visit the war beaches and monuments. Reading the stories of the people that gave their live and, therefore, helped shape Europe as it is today is inspiring, yet makes you realize how incredibly fortunate we are today. 
