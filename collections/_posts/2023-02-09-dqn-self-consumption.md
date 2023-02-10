@@ -9,3 +9,4 @@ thumbnail: "/assets/images/gen/blog/battery.svg"
 image: 
 ---
 
+*Coming soon*
