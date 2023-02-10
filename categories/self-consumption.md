@@ -1,4 +1,4 @@
 ---
 layout: category
-title: Self-Consumption
+title: Self-consumption
 ---
