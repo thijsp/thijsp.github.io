@@ -7,6 +7,7 @@ categories: ["Reinforcement Learning", "Demand Response", "Transfer Learning"]
 description: "Abstract of my PhD Thesis"
 thumbnail: "/assets/images/gen/blog/tekening_Thijs.png"
 image: "/assets/images/gen/blog/tekening_Thijs.png"
+comments: true
 ---
 
 *Find the full thesis <a href="https://lirias.kuleuven.be/3700338?limo=0" target="_blank">here</a>*

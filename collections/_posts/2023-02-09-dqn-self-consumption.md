@@ -7,6 +7,7 @@ categories: ["Reinforcement Learning", "Demand Response", "Self-consumption"]
 description: "I  show how a self-learning agent can be used to increase residential self-consumption."
 thumbnail: "/assets/images/gen/blog/battery.svg"
 image: 
+comments: false
 ---
 
 *Coming soon*
