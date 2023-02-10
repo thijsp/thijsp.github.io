@@ -16,7 +16,9 @@ meta_title: "Thijs Peirelinck - Publications and CV"
 * T. Peirelinck, C. Hermans, F. Spiessens, G. Deconinck, *"<a href="https://ieeexplore.ieee.org/abstract/document/8905776" target="\_blank">Double Q-learning for demand response of an electric water heater</a>"*, 2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), 1-5, 2019
 * C. Patyn, T. Peirelinck, G. Deconinck, A. Nowe, *"<a href="https://ieeexplore.ieee.org/abstract/document/8587453" target="\_blank">Intelligent electric water heater control with varying state information</a>"*, 2018 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2018
 * T. Peirelinck, C. Hermans, F. Spiessens, G. Deconinck, *"<a href="https://ieeexplore.ieee.org/abstract/document/8398832" target="\_blank">Using reinforcement learning for optimizing heat pump control in a building model in Modelica</a>"*, 2018 IEEE International Energy Conference (ENERGYCON), 1-6, 2018
-* T. Peirelinck, A.I. Bratcu, Y. Bésanger, *"<a href="https://ieeexplore.ieee.org/abstract/document/8398832" target="\_blank">Impact of IEC 61850 GOOSE communication quality on decentralized reactive power control in smart distribution grids—A co-simulation study</a>"*, 2016 IEEE Electrical Power and Energy Conference (EPEC), 1-6, 2016
+* T. Peirelinck, A.I. Bratcu, Y. Bésanger, *"<a href="https://ieeexplore.ieee.org/abstract/document/8398832" target="\_blank">Impact of IEC 61850 GOOSE communication quality on decentralized reactive power control in smart distribution grids—A co-simulation study</a>"*, 2016 IEEE Electrical Power and Energy Conference (EPEC), 1-6, 2016 <br>
+
+Or see <a href="https://scholar.google.com/citations?user=Zfy4dswAAAAJ&hl=en" target="\_blank">Google Scholar</a>
 
 ## CV
 
