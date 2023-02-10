@@ -1,7 +1,7 @@
 ---
 layout: project # alternative layouts: project, project-left, project-right, project-top
 title: "Belgian Landscapes"
-description: "A few of the my best Belgian landscape images."
+description: "A few of my best Belgian landscape images."
 date: 2022-01-01
 weight: 1
 thumbnail: "/assets/images/gen/projects/BelgianLandscapes/thumbnail.jpeg"
