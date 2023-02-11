@@ -50,6 +50,9 @@ defaults:
     values:
       permalink: /:basename/
 
+# storage
+bucketurl: "https://f003.backblazeb2.com/file/thijsp-blog"
+
 # SCSS
 sass:
   style: compact
@@ -115,7 +118,7 @@ fonts:
 #   show_logo_text_on_mobile: false
 #   show_logo_text_on_desktop: false
 
-logo: assets/images/logo/logo.png
+logo: "assets/images/logo/logo.png"
   
   
 header: 
@@ -161,9 +164,9 @@ menu:
 social:
   name: Thijs Peirelinck
   links:
-    - https://www.instagram.com/timelapsingthikkes/?hl=en
-    - https://www.linkedin.com/in/thijspeirelinck
-    - https://photog.social/@thijspeirelinck
+    - "https://www.instagram.com/timelapsingthikkes/?hl=en"
+    - "https://www.linkedin.com/in/thijspeirelinck"
+    - "https://photog.social/@thijspeirelinck"
 
 footer:
   enable_footer: true # show/hide the entire footer

@@ -6,7 +6,7 @@ main:
     url: /publications/
     weight: 2
   - name: Photography
-    url: /projects/
+    url: /photography/
     weight: 3
     child:
       - name: "Portfolio"
@@ -23,7 +23,7 @@ main:
         icon: "/assets/images/gen/projects/thumbnail.jpeg"
         icon_darkmode: "/assets/images/gen/projects/thumbnail.jpeg"
         description: "All galleries"
-        url: /projects/
+        url: /photography/
   - name: Blog
     url: /blog/
     weight: 4
@@ -35,7 +35,7 @@ footer_primary:
   - name: "Belgian Landscapes"
     url: /belgian-landscapes/
   - name: "All galleries"
-    url: /projects/
+    url: /photography/
 
 footer_secondary:
   - name: Blog
