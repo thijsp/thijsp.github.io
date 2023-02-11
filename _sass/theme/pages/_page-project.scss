@@ -80,6 +80,24 @@
       width: 49%;
     }
   }
+  .gallery-4-3c {
+    grid-template-columns: 1fr 1fr 1fr;
+    .gallery-sizer {
+    }
+    .gallery-item {
+      margin-bottom: $grid-gutter-width;
+      width: 32%;
+    }
+  }
+  .gallery-4-4c {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    .gallery-sizer {
+    }
+    .gallery-item {
+      margin-bottom: $grid-gutter-width;
+      width: 24%;
+    }
+  }
   .content {
     width: 90%;
   }

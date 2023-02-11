@@ -1,4 +1,5 @@
 <br>
+{% if include.columns == 2 %}
 <div class="project-image">
   <div class="gallery gallery-4">
     <div class="gallery-sizer"></div>
@@ -10,3 +11,44 @@
   {% endfor %}
   </div>
 </div>
+
+{% elsif include.columns == 3 %}
+<div class="project-image">
+  <div class="gallery gallery-4-3c">
+    <div class="gallery-sizer"></div>
+  {% for item in include.gallery limit: limit %}
+    <div class="gallery-item">
+      <div class="gallery-image"><img width="615" height="400" src="{{ item.image | relative_url }}"/></div>
+      <div class="gallery-caption">{{ item.caption }}</div>
+    </div>
+  {% endfor %}
+  </div>
+</div>
+
+{% elsif include.columns == 4 %}
+<div class="project-image">
+  <div class="gallery gallery-4-4c">
+    <div class="gallery-sizer"></div>
+  {% for item in include.gallery limit: limit %}
+    <div class="gallery-item">
+      <div class="gallery-image"><img width="615" height="400" src="{{ item.image | relative_url }}"/></div>
+      <div class="gallery-caption">{{ item.caption }}</div>
+    </div>
+  {% endfor %}
+  </div>
+</div>
+
+{% else %}
+<div class="project-image">
+  <div class="gallery gallery-4">
+    <div class="gallery-sizer"></div>
+  {% for item in include.gallery limit: limit %}
+    <div class="gallery-item">
+      <div class="gallery-image"><img width="615" height="400" src="{{ item.image | relative_url }}"/></div>
+      <div class="gallery-caption">{{ item.caption }}</div>
+    </div>
+  {% endfor %}
+  </div>
+</div>
+
+{% endif %}
