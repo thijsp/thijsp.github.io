@@ -14,7 +14,7 @@ body_classes: page-project
           <div class="gallery gallery-1">
           {% for item in page.gallery limit: limit %}
             <div class="gallery-item">
-              <div class="gallery-image"><img src="{{ item.image | relative_url }}"/></div>
+              <div class="gallery-image"><img src="{{ site.bucketurl | append: item.image }}"/></div>
               <div class="gallery-caption">{{ item.caption }}</div>
             </div>
           {% endfor %}

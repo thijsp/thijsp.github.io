@@ -16,7 +16,7 @@
 
   {% if thumbnail %}
     <div class="card-thumbnail {% if thumbnail_size %}card-thumbnail-{{ thumbnail_size }}{% endif %}">
-      <a href="{{ url | relative_url }}"><img alt="{{ title }}" src="{{ thumbnail | relative_url }}"/></a>
+      <a href="{{ url | relative_url }}"><img alt="{{ title }}" src="{{ site.bucketurl | append: thumbnail }}"/></a>
     </div>
   {% endif %}
 
