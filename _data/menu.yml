@@ -13,12 +13,12 @@ main:
         icon: "/assets/images/gen/projects/portfolio/thumbnail.jpeg"
         icon_darkmode: "/assets/images/gen/projects/portfolio/thumbnail.jpeg"
         description: "My best images"
-        url: /portfolio/
+        url: /photography/portfolio/
       - name: "Belgian Landscapes"
         icon: "/assets/images/gen/projects/BelgianLandscapes/thumbnail.jpeg"
         icon_darkmode: "/assets/images/gen/projects/BelgianLandscapes/thumbnail.jpeg"
         description: "Belgian's finest landscapes"
-        url: /belgian-landscapes/
+        url: /photography/belgian-landscapes/
       - name: "More"
         icon: "/assets/images/gen/projects/thumbnail.jpeg"
         icon_darkmode: "/assets/images/gen/projects/thumbnail.jpeg"
@@ -31,9 +31,9 @@ main:
 
 footer_primary:
   - name: "Portfolio"
-    url: /portfolio/
+    url: /photography/portfolio/
   - name: "Belgian Landscapes"
-    url: /belgian-landscapes/
+    url: /photography/belgian-landscapes/
   - name: "All galleries"
     url: /photography/
 

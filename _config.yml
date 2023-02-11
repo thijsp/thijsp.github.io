@@ -20,7 +20,7 @@ paginate_path: "/blog/page/:num"
 collections:
   projects:
     output: true
-    permalink: /:path/
+    permalink: /photography/:path/
   posts:
     output: true
     permalink: /blog/:path/
@@ -118,7 +118,7 @@ fonts:
 #   show_logo_text_on_mobile: false
 #   show_logo_text_on_desktop: false
 
-logo: "assets/images/logo/logo.png"
+logo: assets/images/logo/logo.png
   
   
 header: 
@@ -164,9 +164,9 @@ menu:
 social:
   name: Thijs Peirelinck
   links:
-    - "https://www.instagram.com/timelapsingthikkes/?hl=en"
-    - "https://www.linkedin.com/in/thijspeirelinck"
-    - "https://photog.social/@thijspeirelinck"
+    - https://www.instagram.com/timelapsingthikkes/?hl=en
+    - https://www.linkedin.com/in/thijspeirelinck
+    - https://photog.social/@thijspeirelinck
 
 footer:
   enable_footer: true # show/hide the entire footer
