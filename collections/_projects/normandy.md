@@ -1,5 +1,5 @@
 ---
-layout: project # alternative layouts: project, project-left, project-right, project-top
+layout: project-movie # alternative layouts: project, project-left, project-right, project-top
 title: "Normandy"
 description: "Landscape images of Normandy; Etretat and the war beaches and monuments"
 date: 2022-09-30
