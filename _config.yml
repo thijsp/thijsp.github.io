@@ -186,3 +186,5 @@ bottom:
   enable_bottom_menu: false # if enabled, the bottom menu can be edited in `_data/menu.yml`
   copyright_text: "© 2023 Thijs Peirelinck"
 
+timezone: Europe/Brussels
+
