@@ -5,8 +5,8 @@ date: 2022-05-04T17:00:00Z
 authors: ["Thijs Peirelinck"]
 categories: ["Reinforcement Learning", "Demand Response", "Transfer Learning"]
 description: "Abstract of my PhD Thesis"
-thumbnail: "/blog/2023/tekening_Thijs.png"
-image: "/blog/2023/tekening_Thijs.png"
+thumbnail: "/blog/2023/tekening_Thijs-wide.png"
+image: "/blog/2023/tekening_Thijs-wide.png"
 comments: true
 locale: "en_BE"
 ---
