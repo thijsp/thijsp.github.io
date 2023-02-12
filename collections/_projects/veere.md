@@ -22,7 +22,7 @@ gallery:
   - image: "/images/2023/veere/TL-2.mp4"
   - image: "/images/2023/veere/veere-10.jpg"
   - image: "/images/2023/veere/veere-11.jpg"
-
+locale: "en_BE"
 ---
 
 Mostly laying beneath sea-level, Zeeland in The Netherlands provides interesting coastal scenary.

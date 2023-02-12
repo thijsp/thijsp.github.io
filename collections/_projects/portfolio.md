@@ -31,6 +31,7 @@ gallery:
   - image: "/images/portfolio/portfolio-20.jpg"
   - image: "/images/portfolio/portfolio-21.jpg"
   - image: "/images/portfolio/portfolio-22.jpg"
+locale: "en_BE"
 ---
 
 In my images I try to convey the feeling I had while being there. As such I hope to bring yoou there with me.

@@ -18,7 +18,7 @@ gallery:
   - image: "/images/2022/soelden/soelden-6.jpg"
   - image: "/images/2022/soelden/blog-2.mp4"
   - image: "/images/2022/soelden/soelden-7.jpg"
-
+locale: "en_BE"
 ---
 
 If there is one thing I like doing the most, it is combining skiing with photegraphy. 

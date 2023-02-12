@@ -8,6 +8,7 @@ thumbnail: "/images/BelgianLandscapes/thumbnail.jpeg"
 image: "/images/BelgianLandscapes/thumbnail.jpeg"
 categories: ["Photography", "Landscapes"]
 location: "Belgium"
+locale: "en_BE"
 gallery:
   - image: "/images/BelgianLandscapes/BElandscapes-1.jpg"
   - image: "/images/BelgianLandscapes/BElandscapes-2.jpg"

@@ -8,6 +8,7 @@ description: "Abstract of my PhD Thesis"
 thumbnail: "/blog/2023/tekening_Thijs.png"
 image: "/blog/2023/tekening_Thijs.png"
 comments: true
+locale: "en_BE"
 ---
 
 *Find the full thesis <a href="https://lirias.kuleuven.be/3700338?limo=0" target="_blank">here</a>*
