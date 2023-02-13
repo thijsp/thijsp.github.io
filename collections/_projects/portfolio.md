@@ -5,7 +5,7 @@ description: "A few of the dramatic landscpaes I have shot over the past couple 
 date: 2022-01-01
 weight: 3
 thumbnail: "/images/portfolio/thumbnail.jpeg"
-image: "/images/portfolio/thumbnail.jpeg"
+image: "/assets/images/content/images/portfolio/thumbnail.jpeg"
 categories: ["Photography", "Landscapes"]
 location: "Europe"
 gallery:
