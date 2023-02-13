@@ -7,7 +7,7 @@ authors: "Thijs Peirelinck"
 categories: ["Reinforcement Learning", "Demand Response"]
 description: "Artificial Intelligence can help to heat our shower water when cheap sustainable energy is abundant, without compromising in comfort."
 thumbnail: "/blog/2023/droplet-wide.png"
-image: "/assets/images/content/blog/2023/droplet-wide.png"
+image: "/blog/2023/droplet-wide.png"
 comments: true
 locale: "en_BE"
 ---
