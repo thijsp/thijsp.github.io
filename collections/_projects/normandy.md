@@ -5,7 +5,7 @@ description: "Landscape images of Normandy; Etretat and the war beaches and monu
 date: 2022-09-30
 weight: 3
 thumbnail: "/images/2022/normandy/thumbnail.jpg"
-image: "/assets/images/content/images/2022/normandy/thumbnail.jpg"
+image: "/images/2022/normandy/thumbnail.jpg"
 categories: ["Photography", "Landscapes", "Travel", "Timelapse"]
 location: "Normandy, France"
 gallery:

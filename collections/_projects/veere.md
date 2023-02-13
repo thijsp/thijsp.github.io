@@ -5,7 +5,7 @@ description: "Images from a recent trip Veere, The Netherlands"
 date: 2023-02-06
 weight: 10
 thumbnail: "/images/2023/veere/veere-7.jpg"
-image: "/assets/images/content/images/2023/veere/veere-7.jpg"
+image: "/images/2023/veere/veere-7.jpg"
 categories: ["Photography", "Landscapes", "Travel", "Timelapse"]
 location: "Zeeland, The Netherlands"
 gallery:
