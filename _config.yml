@@ -52,6 +52,9 @@ defaults:
 # storage
 bucketurl: "/assets/images/content"
 
+# default page image
+image: "/main.jpeg"
+
 # SCSS
 sass:
   style: compact

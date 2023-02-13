@@ -2,6 +2,8 @@
 layout: basic
 title: Connect with me
 permalink: "/links/"
+image: "/images/main.jpeg"
+meta_title: "Thijs Peirelinck | Energieonderzoeker en Landschapsfotograaf"
 ---
 <!-- ![](/assets/images/team/profile-picture.png){:height="130" width="130"} -->
 ### Social links
