@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Smart Boilers: Shower more Sustainable and more Economical"
-date: 2023-02-13T08:45:00Z
+timezone: "Europe/Brussels"
+date: 2023-02-13T08:30:00+0200
 authors: "Thijs Peirelinck"
 categories: ["Reinforcement Learning", "Demand Response"]
 description: "Artificial Intelligence can help to heat our shower water when cheap sustainable energy is abundant, without compromising in comfort."
