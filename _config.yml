@@ -51,6 +51,9 @@ defaults:
 
 # storage
 bucketurl: "/assets/images/content"
+absbucketurl: "https://www.thijspeirelinck.be"
+# bucketurl: "https://f003.backblazeb2.com/file/thijsp-blog"
+# absbucketurl: ""
 
 # default page image
 image: "/main.jpeg"
