@@ -29,7 +29,7 @@
 
   {% if image and image != "" %}
     <div class="heading-image">
-      <img {% if title %} alt="{{ title }}" {% endif %} src="{{ site.bucketurl | append: image }}"/>
+      <img {% if title %} alt="{{ title }}" {% endif %} src="{{ image }}"/>
     </div>
   {% endif %}
 </div>
