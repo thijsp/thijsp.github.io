@@ -2,10 +2,8 @@
 layout: basic
 title: Connect with me
 permalink: "/links/"
-image: "/images/main.jpeg"
 meta_title: "Thijs Peirelinck | Energieonderzoeker en Landschapsfotograaf"
 ---
-<!-- ![](/assets/images/team/profile-picture.png){:height="130" width="130"} -->
 ### Social links
  <div class="page-social relative">
      <a href="https://photog.social/@thijspeirelinck" target="_blank">
@@ -81,8 +79,5 @@ meta_title: "Thijs Peirelinck | Energieonderzoeker en Landschapsfotograaf"
 	PayPal - choose your amount
 	</a> 
 </div>
-
-
-<a rel="me" href="https://photog.social/@thijspeirelinck"></a>
 
 
