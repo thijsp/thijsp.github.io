@@ -3,7 +3,7 @@
 {% if page.meta_title %}
 <meta property="og:title" content="{{ page.meta_title }}" />
 {% elsif page.title %}
-<meta property="og:title" content="{{ page.title | site.title }}" />
+<meta property="og:title" content="{{ page.title }} | {{ site.title }}" />
 {% endif %}
 {% if page.locale %}
 <meta property="og:locale" content="{{ page.locale }} " />
@@ -34,6 +34,6 @@
 {% if page.meta_title %}
 <meta property="twitter:title" content="{{ page.meta_title }}" />
 {% elsif page.title %}
-<meta property="twitter:title" content="{{ page.title }}" />
+<meta property="twitter:title" content="{{ page.title }} | {{ site.title }}" />
 {% endif %}
 	<!-- End SEO Meta Tags -->
