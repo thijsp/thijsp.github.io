@@ -51,7 +51,7 @@ defaults:
       permalink: /:basename/
 
 # storage
-bucketurl: "https://f003.backblazeb2.com/file/thijsp-blog"
+bucketurl: "/assets/images/content"
 
 # SCSS
 sass:
