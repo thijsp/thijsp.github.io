@@ -10,6 +10,7 @@ thumbnail: "/blog/2023/droplet-wide.png"
 image: "/blog/2023/droplet-wide.png"
 comments: true
 locale: "en_BE"
+meta_og_image: "https://f003.backblazeb2.com/file/thijsp-blog/blog/2023/droplet-wide.png"
 ---
 
 In my research I work on artificial intelligence based control algorithms for demand response. The goal of these algorithms is to control appliances, such as heat pumps, boilers and electric vehicles, and use their flexibility to support renewable energy uptake. Here, I would like to discuss the problem setting and solution approach I am investigating.
