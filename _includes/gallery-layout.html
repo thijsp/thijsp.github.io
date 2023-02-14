@@ -5,7 +5,7 @@
     <div class="gallery-sizer"></div>
   {% for item in include.gallery limit: limit %}
     <div class="gallery-item">
-      <div class="gallery-image"><img width="615" height="400" src="{{ site.bucketurl | append: item.image }}"/></div>
+      <div class="gallery-image"><img width="615" height="400" src="{{ site.bucketurl }}/images-low{{ item.image }}" data-src="{{ site.bucketurl | append: item.image }}"/></div>
       <div class="gallery-caption">{{ item.caption }}</div>
     </div>
   {% endfor %}
@@ -18,7 +18,7 @@
     <div class="gallery-sizer"></div>
   {% for item in include.gallery limit: limit %}
     <div class="gallery-item">
-      <div class="gallery-image"><img width="615" height="400" src="{{ site.bucketurl | append: item.image }}"/></div>
+      <div class="gallery-image"><img width="615" height="400" rc="{{ site.bucketurl }}/images-low{{ item.image }}" data-src="{{ site.bucketurl | append: item.image }}"/></div>
       <div class="gallery-caption">{{ item.caption }}</div>
     </div>
   {% endfor %}
@@ -31,7 +31,7 @@
     <div class="gallery-sizer"></div>
   {% for item in include.gallery limit: limit %}
     <div class="gallery-item">
-      <div class="gallery-image"><img width="615" height="400" src="{{ site.bucketurl | append: item.image }}"/></div>
+      <div class="gallery-image"><img width="615" height="400" rc="{{ site.bucketurl }}/images-low{{ item.image }}" data-src="{{ site.bucketurl | append: item.image }}"/></div>
       <div class="gallery-caption">{{ item.caption }}</div>
     </div>
   {% endfor %}
@@ -44,7 +44,7 @@
     <div class="gallery-sizer"></div>
   {% for item in include.gallery limit: limit %}
     <div class="gallery-item">
-      <div class="gallery-image"><img width="615" height="400" src="{{ site.bucketurl | append: item.image }}"/></div>
+      <div class="gallery-image"><img width="615" height="400" rc="{{ site.bucketurl }}/images-low{{ item.image }}" data-src="{{ site.bucketurl | append: item.image }}"/></div>
       <div class="gallery-caption">{{ item.caption }}</div>
     </div>
   {% endfor %}

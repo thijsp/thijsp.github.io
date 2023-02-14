@@ -58,19 +58,39 @@ body_classes: page-project
 
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
 <script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.8.3/dist/lazyload.min.js"></script>
 <script>
   var elements = document.getElementsByClassName('gallery');
   var msnry;
 
-  imagesLoaded( document.querySelector('.gallery'), function() {
-    var n = elements.length;
-    for(var i = 0; i < n; i++){
-      msnry = new Masonry( elements[i], {
-        itemSelector: '.gallery-item',
-        columnWidth: '.gallery-sizer',
-        gutter: 30,
-      });
-    }
-  });
-</script>
+  var grid = document.querySelector('.gallery');
+  var msnry;
 
+  var n = elements.length;
+
+  var ll = new LazyLoad({
+    elements_selector: "img",
+    callback_loaded() {
+        for(var i = 0; i < n; i++){
+          msnry = new Masonry(elements[i], {
+              itemSelector: '.gallery-item',
+              columnWidth: '.gallery-sizer',
+              gutter: 30
+          });
+        }
+      }
+  });
+  // var elements = document.getElementsByClassName('gallery');
+  // var msnry;
+
+  // imagesLoaded( document.querySelector('.gallery'), function() {
+  //   var n = elements.length;
+  //   for(var i = 0; i < n; i++){
+  //     msnry = new Masonry( elements[i], {
+  //       itemSelector: '.gallery-item',
+  //       columnWidth: '.gallery-sizer',
+  //       gutter: 30,
+  //     });
+  //   }
+  // });
+</script>

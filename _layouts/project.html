@@ -55,7 +55,7 @@ body_classes: page-project
           <div class="gallery-sizer"></div>
         {% for item in page.gallery limit: limit %}
           <div class="gallery-item">
-            <div class="gallery-image"><img width="615" height="400" src="{{ site.bucketurl | append: item.image }}"/></div>
+            <div class="gallery-image"><img width="615" height="400" src="{{ site.bucketurl }}/images-low{{ item.image }}" data-src="{{ site.bucketurl | append: item.image }}"/></div>
             <div class="gallery-caption">{{ item.caption }}</div>
           </div>
         {% endfor %}
@@ -67,15 +67,29 @@ body_classes: page-project
 
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
 <script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.8.3/dist/lazyload.min.js"></script>
 <script>
   var grid = document.querySelector('.gallery');
   var msnry;
 
-  imagesLoaded( grid, function() {
-    msnry = new Masonry( grid, {
-      itemSelector: '.gallery-item',
-      columnWidth: '.gallery-sizer',
-      gutter: 30
-    });
+  var ll = new LazyLoad({
+    elements_selector: "img",
+    callback_loaded() {
+        msnry = new Masonry(grid, {
+            itemSelector: '.gallery-item',
+            columnWidth: '.gallery-sizer',
+            gutter: 30
+        });
+    }
   });
+  // var grid = document.querySelector('.gallery');
+  // var msnry;
+
+  // imagesLoaded( grid, function() {
+  //   msnry = new Masonry( grid, {
+  //     itemSelector: '.gallery-item',
+  //     columnWidth: '.gallery-sizer',
+  //     gutter: 30
+  //   });
+  // });
 </script>
