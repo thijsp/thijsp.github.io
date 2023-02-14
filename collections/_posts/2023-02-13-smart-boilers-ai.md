@@ -39,7 +39,7 @@ Well, we can formulate the challenge of heating water at the right moment, when 
 
 Unfortunately, it is not all that simple. Two main challenges arise.
 
-First, we need to define our reward. Energy prices can be a good fit. The score of the agent can be the inverse of the energy cost. The more energy you consume, the lower the score. Additionally, we can put to cost of self-produced sustainble energy, for example by means of a rooftop solar installation, to a very small number. As a result, the agent will able to learn that hot water can be made cheaply when the sun is shining.
+First, we need to define our reward. Energy prices can be a good fit. Altough then, the reward of the agent should be the inverse of the energy cost. Because, the more energy you consume, the lower the score should be. This will then result in an energy efficient final control policy. Additionally, we can put to cost of self-produced sustainble energy, for example by means of a rooftop solar installation, to a very small number. As a result, the agent will able to learn that hot water can be made cheaply when the sun is shining.
 
 Second, we need to take into account comfort. We do not want a cold shower in the evening when the sun didn't show up during the day (a common problem in Belgium). Therefore, we need a comfort controller. One approach would be to give our agent a bad score for not statisfying comfort levels. However, the agent will then have to *learn* what the comfort levels are. We would like to enforce a more strict comfort policy. Therefore, our comfort controller will maintain water inside the buffer at a pre-determined minimal comfort level and override agent actions when needed.
 
