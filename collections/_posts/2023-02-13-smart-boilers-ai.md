@@ -45,7 +45,7 @@ Second, we need to take into account comfort. We do not want a cold shower in th
 
 Over the past years, we have tested and fine-tuned this approach. This work has been presented at several scientific conferences and in several scientific journals \[1, 2, 3\]. The results show that a reinforcement learning based agent can indeed reduce the cost of electric water heater operation by taking into account energy prices and simultaneously match solar production and boiler power consumption. We have seen cost reductions for the end-consumer up to 15% \[3\], compared to a regular controller as used nowadays.
 
-Given the economical en ecological impact I am confident this technology will eventually find its way to the end-consumer. Would't you like to have boiler which is sustainable wihtout breaking the bank?
+Given the economical en ecological impact I am confident this technology will eventually find its way to the end-consumer. Wouldn't you like to have boiler which is sustainable wihtout breaking the bank?
 
 ---
 
