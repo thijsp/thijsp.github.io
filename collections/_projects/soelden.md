@@ -21,4 +21,4 @@ gallery:
 locale: "en_BE"
 ---
 
-If there is one thing I like doing the most, it is combining skiing with photegraphy. 
+If there is one thing I like doing the most, it is combining skiing with photography. 
