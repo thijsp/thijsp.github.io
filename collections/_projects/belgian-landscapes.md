@@ -4,8 +4,8 @@ title: "Belgian Landscapes"
 description: "A few of my best Belgian landscape images."
 date: 2022-01-01
 weight: 1
-thumbnail: "/images/BelgianLandscapes/thumbnail.jpeg"
-image: "/images/BelgianLandscapes/thumbnail.jpeg"
+thumbnail: "/images/BelgianLandscapes/thumbnail.jpg"
+image: "/images/BelgianLandscapes/thumbnail.jpg"
 categories: ["Photography", "Landscapes"]
 location: "Belgium"
 locale: "en_BE"

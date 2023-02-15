@@ -4,8 +4,8 @@ title: "Portfolio"
 description: "A few of the dramatic landscpaes I have shot over the past couple of years."
 date: 2022-01-01
 weight: 3
-thumbnail: "/images/portfolio/thumbnail.jpeg"
-image: "/images/portfolio/thumbnail.jpeg"
+thumbnail: "/images/portfolio/thumbnail.jpg"
+image: "/images/portfolio/thumbnail.jpg"
 categories: ["Photography", "Landscapes"]
 location: "Europe"
 gallery:
