@@ -12,11 +12,11 @@ gallery:
   - image: "/images/2022/soelden/soelden-1.jpg"
   - image: "/images/2022/soelden/soelden-2.jpg"
   - image: "/images/2022/soelden/soelden-3.jpg"
-  - image: "/images/2022/soelden/blog.mp4"
+  - video: "/images/2022/soelden/blog.mp4"
   - image: "/images/2022/soelden/soelden-4.jpg"
   - image: "/images/2022/soelden/soelden-5.jpg"
   - image: "/images/2022/soelden/soelden-6.jpg"
-  - image: "/images/2022/soelden/blog-2.mp4"
+  - video: "/images/2022/soelden/blog-2.mp4"
   - image: "/images/2022/soelden/soelden-7.jpg"
 locale: "en_BE"
 ---
