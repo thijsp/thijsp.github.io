@@ -16,7 +16,7 @@ main:
         url: /photography/portfolio/
       - name: "Belgian Landscapes"
         icon: "/assets/images/menu-thumbnails/thumbnail-BE.jpg"
-        icon_darkmode: "/assets/menu-thumbnails/thumbnail-BE.jpg"
+        icon_darkmode: "/assets/images/menu-thumbnails/thumbnail-BE.jpg"
         description: "Belgian's finest landscapes"
         url: /photography/belgian-landscapes/
       - name: "More"
