@@ -10,18 +10,18 @@ main:
     weight: 3
     child:
       - name: "Portfolio"
-        icon: "/assets/images/gen/projects/portfolio/thumbnail.jpeg"
-        icon_darkmode: "/assets/images/gen/projects/portfolio/thumbnail.jpeg"
+        icon: "/assets/images/menu-thumbnails/thumbnail-portfolio.jpg"
+        icon_darkmode: "/assets/images/menu-thumbnails/thumbnail-portfolio.jpg"
         description: "My best images"
         url: /photography/portfolio/
       - name: "Belgian Landscapes"
-        icon: "/assets/images/gen/projects/BelgianLandscapes/thumbnail.jpeg"
-        icon_darkmode: "/assets/images/gen/projects/BelgianLandscapes/thumbnail.jpeg"
+        icon: "/assets/images/menu-thumbnails/thumbnail-BE.jpg"
+        icon_darkmode: "/assets/menu-thumbnails/thumbnail-BE.jpg"
         description: "Belgian's finest landscapes"
         url: /photography/belgian-landscapes/
       - name: "More"
-        icon: "/assets/images/gen/projects/thumbnail.jpeg"
-        icon_darkmode: "/assets/images/gen/projects/thumbnail.jpeg"
+        icon: "/assets/images/menu-thumbnails/thumbnail.jpg"
+        icon_darkmode: "/assets/images/menu-thumbnails/thumbnail.jpg"
         description: "All galleries"
         url: /photography/
   - name: Blog
