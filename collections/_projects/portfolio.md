@@ -34,4 +34,4 @@ gallery:
 locale: "en_BE"
 ---
 
-In my images I try to convey the feeling I had while being there. As such I hope to bring yoou there with me.
+In my images I try to convey the feeling I had while being there. As such I hope to bring you there with me.
