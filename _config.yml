@@ -90,9 +90,10 @@ colors:
   text_2: "#3b364c"
 
   # dark-mode colors
-  primary_dark: "#0d042b"
+  primary_dark: "#8795cc"
   # primary_dark: "#171716"
   primary_2_dark: "#0d042b"
+  # primary_2_dark: "#bebfed"
   primary_text_dark: "#fdfcf9"
   # background_dark: "#0b0326"
   background_dark: "#171716"
