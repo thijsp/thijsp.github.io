@@ -41,6 +41,8 @@ footer_primary:
     url: /photography/belgian-landscapes/
   - name: "All galleries"
     url: /photography/
+  - name: "Frame-it Tool"
+    url: /frameit/
 
 footer_secondary:
   - name: Blog
