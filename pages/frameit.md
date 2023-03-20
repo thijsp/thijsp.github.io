@@ -25,7 +25,7 @@ meta_description: "Privacy-friendly tool to create a border around images, as ty
 				<option value="4k">4K</option>
 				<option value="hd">Full HD</option>
 			</select>
-			<div id="QualityHelp" class="form-text">This is not an upscaling tool - if your picture's quality is bad, don't expect good results.</div>
+			<div id="QualityHelp" class="form-text" style="color: #d7dade">This is not an upscaling tool - if your picture's quality is bad, don't expect good results.</div>
 		</div>
 	</div>
 	<br><br>
@@ -37,7 +37,7 @@ meta_description: "Privacy-friendly tool to create a border around images, as ty
 		<input type="hidden" name="MAX_FILE_SIZE" value="30000" />
 		<label for="myfile">Image:</label><br>
 		<input class="form-control form-control-sm" type="file" id="myfile" name="image" accept="image/jpg,image/jpeg">
-		<div id="fileHelp" class="form-text">We'll never save your image on the server.</div>
+		<div id="fileHelp" class="form-text" style="color: #d7dade">We'll never save your image on the server.</div>
 	</div>
 	<br><br>
 	<div class="col-12">
