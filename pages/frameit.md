@@ -12,7 +12,7 @@ meta_description: "Privacy-friendly tool to create a border around images, as ty
 	<div class="row">
 		<div class="col-md-6">
 			<label for="ratio">Ratio:</label><br>
-			<select class="form-select form-select-sm" name="ratio" id="ratio">
+			<select class="form-select" name="ratio" id="ratio">
 				<option value="sq">Square (1:1)</option>
 				<option value="45">Insta Vertical (4:5)</option>
 				<option value="vert">Insta Story (9:16)</option>
@@ -20,7 +20,7 @@ meta_description: "Privacy-friendly tool to create a border around images, as ty
 		</div>
 		<div class="col-md-6">
 			<label for="resolution">Quality:</label><br>
-			<select class="form-select form-select-sm" name="resolution" id="resolution">
+			<select class="form-select" name="resolution" id="resolution">
 				<option value="best">Best</option>
 				<option value="4k">4K</option>
 				<option value="hd">Full HD</option>
@@ -28,18 +28,19 @@ meta_description: "Privacy-friendly tool to create a border around images, as ty
 			<div id="QualityHelp" class="form-text" style="color: #d7dade">This is not an upscaling tool - if your picture's quality is bad, don't expect good results.</div>
 		</div>
 	</div>
-	<br><br>
+	<br>
 	<div class="col-6">
 		<label for="background">Background color:</label><br>
-		<input class="form-control form-control-color custom" id="background" name="background" type="color" value="#ffffff"><br><br>
+		<input class="form-control form-control-color custom" id="background" name="background" type="color" value="#ffffff">
+	<br>
 	</div>
 	<div class="col-12">
 		<input type="hidden" name="MAX_FILE_SIZE" value="30000" />
 		<label for="myfile">Image:</label><br>
-		<input class="form-control form-control-sm" type="file" id="myfile" name="image" accept="image/jpg,image/jpeg">
+		<input class="form-control" type="file" id="myfile" name="image" accept="image/jpg,image/jpeg">
 		<div id="fileHelp" class="form-text" style="color: #d7dade">We'll never save your image on the server.</div>
 	</div>
-	<br><br>
+	<br>
 	<div class="col-12">
 		<input class="btn btn-primary mb-3" type="submit" value="Create Frame" style="width:100%">
 	</div>
