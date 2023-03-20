@@ -9,7 +9,7 @@ bootstrap: true
 
 <form action='https://frame-it.thijspeirelinck.be/external' method="POST" enctype="multipart/form-data">
 	<div class="row">
-		<div class="col-md-3">
+		<div class="col-md-6">
 			<label for="ratio">Ratio:</label><br>
 			<select class="form-select form-select-sm" name="ratio" id="ratio">
 				<option value="sq">Square (1:1)</option>
@@ -17,7 +17,7 @@ bootstrap: true
 				<option value="vert">Insta Story (9:16)</option>
 			</select>
 		</div>
-		<div class="col-md-3">
+		<div class="col-md-6">
 			<label for="resolution">Quality:</label><br>
 			<select class="form-select form-select-sm" name="resolution" id="resolution">
 				<option value="best">Best</option>
@@ -29,14 +29,16 @@ bootstrap: true
 	<br><br>
 	<div class="col-6">
 		<label for="background">Background color:</label><br>
-		<input class="form-control form-control-color" id="background" name="background" type="color" value="#ffffff"><br><br>
+		<input class="form-control form-control-color custom" id="background" name="background" type="color" value="#ffffff"><br><br>
 	</div>
-	<div class="col-6">
+	<div class="col-12">
 		<input type="hidden" name="MAX_FILE_SIZE" value="30000" />
 		<label for="myfile">Image:</label><br>
 		<input class="form-control form-control-sm" type="file" id="myfile" name="image" accept="image/jpg,image/jpeg">
 		<div id="fileHelp" class="form-text">We'll never save your image on the server.</div>
 	</div>
 	<br><br>
-	<input class="btn btn-primary mb-3" type="submit" value="Create Frame">
+	<div class="col-12">
+		<input class="btn btn-primary mb-3" type="submit" value="Create Frame" style="width:100%">
+	</div>
 </form> 
