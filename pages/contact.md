@@ -1,5 +1,5 @@
 ---
-layout: contact
+layout: basic
 title: Contact
 permalink: "/contact/"
 meta_title: "Thijs Peirelinck | Contact"
