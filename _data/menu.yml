@@ -24,6 +24,11 @@ main:
         icon_darkmode: "/assets/images/menu-thumbnails/thumbnail.jpg"
         description: "All galleries"
         url: /photography/
+      - name: "Frame-it"
+        icon: "/assets/images/logo/logo.png"
+        icon_darkmode: "assets/images/logo/logo-invert.png"
+        description: "Create image borders"
+        url: /frameit/
   - name: Blog
     url: /blog/
     weight: 4
