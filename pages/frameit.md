@@ -25,6 +25,7 @@ meta_description: "Privacy-friendly tool to create a border around images, as ty
 				<option value="4k">4K</option>
 				<option value="hd">Full HD</option>
 			</select>
+			<div id="QualityHelp" class="form-text">This is not an upscaling tool - if your picture's quality is bad, don't expect good results.</div>
 		</div>
 	</div>
 	<br><br>
