@@ -4,6 +4,7 @@ title: Frame-it
 permalink: "/frameit/"
 meta_title: "Thijs Peirelinck | Frame-it"
 bootstrap: true
+meta_description: "Privacy-friendly tool to create a border around images, as typically seen on Instagram."
 ---
 ## Fill in frame properties
 

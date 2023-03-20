@@ -3,6 +3,7 @@ layout: contact
 title: Contact
 permalink: "/contact/"
 meta_title: "Thijs Peirelinck | Contact"
+meta_description: "Contact form. Contact me in case you would like to have one of my pictures printed to use as wall decoration, or if you would like to book for photography or research related things."
 ---
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://frame-it.thijspeirelinck.be/mail" method="post">
