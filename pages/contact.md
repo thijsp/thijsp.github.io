@@ -6,7 +6,7 @@ meta_title: "Thijs Peirelinck | Contact"
 meta_description: "Contact form. Contact me in case you would like to have one of my pictures printed to use as wall decoration, or if you would like to book for photography or research related things."
 ---
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://api.thijspeirelinck.be/mail" method="post">
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://api.thijspeirelinck.be/contact" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
