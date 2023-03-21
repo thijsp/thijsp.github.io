@@ -9,6 +9,7 @@ thumbnail: "/blog/2023/tekening_Thijs-wide.png"
 image: "/blog/2023/tekening_Thijs-wide.png"
 comments: true
 locale: "en_BE"
+header_static: true
 ---
 
 *Find the full thesis <a href="https://lirias.kuleuven.be/3700338?limo=0" target="_blank">here</a>*
