@@ -1,5 +1,5 @@
 {% capture header_classes %}
-  {% if site.header.align %}header-{{ site.header.align}} {% endif %}{% if site.header.fixed %}header-fixed {% endif %}{% if page.header_transparent %}header-transparent {% endif %}{{ page.header_classes }}
+  {% if site.header.align %}header-{{ site.header.align}} {% endif %}{% if site.header.fixed %}{% if page.header_static %}header-static {% else %}header-fixed {% endif %}{% endif %} {% if page.header_transparent %}header-transparent {% endif %}{{ page.header_classes }}
 {% endcapture %}
 
 <div id="header" class='header {{ header_classes | strip }}'>
