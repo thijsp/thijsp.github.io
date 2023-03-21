@@ -1,17 +1,17 @@
 <!-- Basic Share Links -->
 <strong>Share</strong> <br><br>
 <!-- Twitter (url, text, @mention) -->
-<a href="https://twitter.com/share?url=<URL>&text=<TEXT>via=@thijspeirelinck" target="blank">
+<a href="https://twitter.com/share?url={{ page.url | absolute_url }}&text={{ page.title }}via=@thijspeirelinck" target="blank">
     <i class="fab fa-twitter fa-2xl"></i>
 </a>
 &nbsp;
 <!-- Mastodon (url, text, @mention) -->
-<a href="https://twitter.com/share?url=<URL>&text=<TEXT>via=<USERNAME >" target="blank">
+<a href="https://mastodonshare.com/?text={{ page.title }}&url={{ page.url | absolute_url }}" target="blank">
     <i class="fab fa-mastodon fa-2xl"></i>
 </a>
 &nbsp;
 <!-- LinkedIn (url, title, summary, source url) -->
-<a href="https://www.linkedin.com/shareArticle?url=<URL>&title=<TITLE>&summary=<SUMMARY>&source=<SOURCE_URL>" target="blank">
+<a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}&title={{ page.title }}&summary={{ page.description }}" target="blank">
     <i class="fab fa-linkedin fa-2xl"></i>
 </a>
 &nbsp;
