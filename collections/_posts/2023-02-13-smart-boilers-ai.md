@@ -12,7 +12,6 @@ comments: true
 locale: "en_BE"
 header_static: true
 ---
-
 In my research I work on artificial intelligence based control algorithms for demand response. The goal of these algorithms is to control appliances, such as heat pumps, boilers and electric vehicles, and use their flexibility to support renewable energy uptake. Here, I would like to discuss the problem setting and solution approach I am investigating.
 
 ## "Electrify everything, decarbonise electricity"
