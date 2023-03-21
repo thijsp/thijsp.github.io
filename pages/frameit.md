@@ -55,3 +55,5 @@ meta_description: "Privacy-friendly tool to create a border around images, as ty
 	Feel free to support me - choose your amount
 	</a> 
 </div>
+<br>
+{% include share-buttons.html %}
