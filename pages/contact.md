@@ -17,7 +17,9 @@ meta_description: "Contact form. Contact me in case you would like to have one o
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">
-</form><style>/* reset */
+</form>
+
+<style>/* reset */
 
 #fs-frm input,
 #fs-frm select,
