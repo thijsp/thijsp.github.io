@@ -165,7 +165,7 @@ contact_form:
   formspree_endpoint: https://formspree.io/f/moqyklqv
 
 menu: 
-  show_dropdown_items_in_mobile_menu: false
+  show_dropdown_items_in_mobile_menu: true
   show_social_media_in_mobile_menu: true
 
 social:
