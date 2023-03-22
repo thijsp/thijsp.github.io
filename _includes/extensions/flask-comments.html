@@ -6,7 +6,11 @@
     		<i class="fa-solid fa-thumbs-up fa-beat fa-2xl"></i>
 		</button><br>
     {% if site.data.likes[page.url] %}
-		  <label for="like"><i>{{ site.data.likes[page.url].count }} likes</i></label>
+      {% if site.data.likes[page.url].count == 1 %}
+		    <label for="like"><i>{{ site.data.likes[page.url].count }} like</i></label>
+      {% else %}
+        <label for="like"><i>{{ site.data.likes[page.url].count }} likes</i></label>
+      {% endif %}
     {% endif %}
 	</form>
 	<br>
