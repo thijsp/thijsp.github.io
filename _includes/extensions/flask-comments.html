@@ -14,7 +14,8 @@
 	<form id="fs-frm" name="comment-form" accept-charset="utf-8" action="{{ site.apiurl }}/blogpost-comment" method="POST">
 		<fieldset id="fs-frm-inputs">
 	   	<label for="message">Comment</label>
-	    <textarea rows="5" name="message" id="message" placeholder="Start the discussion" required=""></textarea>
+      {% if site.data.comments[page.url] %}<textarea rows="5" name="message" id="message" placeholder="Join the discussion" required=""></textarea>
+      {% else %}<textarea rows="5" name="message" id="message" placeholder="Start the discussion" required=""></textarea>{% endif %}
 	   	<label for="full-name">Full Name</label>
 	    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
 	    </fieldset>
@@ -24,9 +25,10 @@
 </div>
 <br>
 <br>
-<br>
 <div class="justify-content-center text-start">
     {% if site.data.comments[page.url] %}
+      <hr>
+      <br>
       {% for comment in site.data.comments[page.url] %}
         <b style="font-size:22px;">{{ comment.name }}</b> <i style="font-size:16px;">{{ comment.timestamp }}</i>
         <br>
