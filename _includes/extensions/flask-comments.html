@@ -32,6 +32,9 @@
 <div class="justify-content-center text-start">
     {% if site.data.comments[page.url] %}
       <hr>
+      <div class="text-center">
+        <strong>Comments</strong>
+      </div>
       <br>
       {% for comment in site.data.comments[page.url] %}
         <b style="font-size:22px;">{{ comment.name }}</b> <i style="font-size:16px;">{{ comment.timestamp }}</i>
