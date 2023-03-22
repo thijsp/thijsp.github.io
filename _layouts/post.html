@@ -58,6 +58,16 @@ body_classes: page-post
         {% endif %}
         </div>
 
+        <br><hr>
+
+        {% if page.comments != false %}
+        <div class="text-center">
+          {% include extensions/share-buttons.html %}
+          <br><br>
+          {% include extensions/flask-comments.html %}
+        </div>
+        {% endif %}
+
         {% if site.disqus.shortname %}
         {% if page.comments != false %}
           <div class="comments mt-3">

@@ -1,0 +1,25 @@
+<!-- Basic Share Links -->
+<strong>Share</strong> <br><br>
+<!-- Twitter (url, text, @mention) -->
+<a href="https://twitter.com/share?url={{ page.url | absolute_url }}&text={{ page.title }}&via=@thijspeirelinck" target="_blank">
+    <i class="fab fa-twitter fa-2xl"></i>
+</a>
+&nbsp;
+<!-- Mastodon (url, text, @mention) -->
+<a href="https://mastodonshare.com/?text={{ page.title }}&url={{ page.url | absolute_url }}" target="_blank">
+    <i class="fab fa-mastodon fa-2xl"></i>
+</a>
+&nbsp;
+<!-- LinkedIn (url, title, summary, source url) -->
+<a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}&title={{ page.title }}&summary={{ page.description }}" target="_blank">
+    <i class="fab fa-linkedin fa-2xl"></i>
+</a>
+&nbsp;
+<!-- Email (subject, body) -->
+{% if include.mail_body %}<a href="mailto:?subject={{ include.mail_subject }}&body={{ include.mail_body }} {{ page.url | absolute_url }}. %0d%0a %0d%0aWhat do you think?">
+    <i class="fa-solid fa-square-envelope fa-2xl"></i>
+</a> {% else %} <a href="mailto:?subject=Interesting Blog Post Thijs Peirelinck&body=Check out this blog post titled '{{ page.title }}' from Thijs: {{ page.url | absolute_url }}. %0d%0a %0d%0aWhat do you think?">
+    <i class="fa-solid fa-square-envelope fa-2xl"></i>
+</a>
+{% endif %}
+
