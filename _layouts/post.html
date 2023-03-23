@@ -49,8 +49,9 @@ body_classes: page-post
         {% endif %}
         
         <div class="content">{{ content }}</div>
-
+        <br>
         {% if page.categories %}
+        <strong>Read more:</strong>
         <div class="categories">
         {% include framework/blocks/components/categories-badges.html 
             categories=page.categories
@@ -58,7 +59,22 @@ body_classes: page-post
         {% endif %}
         </div>
 
-        <br><hr>
+        <br>
+
+        <div class="row">
+            <div class="col-6 text-start">
+              {% if page.next.url %}
+                  <a href="{{ page.next.url }}">&laquo; {{ page.next.title }}</a>
+              {% endif %}
+            </div>
+            <div class="col-6 text-end">
+              {% if page.previous.url %}
+                  <a href="{{ page.previous.url }}">{{ page.previous.title }} &raquo;</a>
+              {% endif %}
+            </div>
+        </div>
+
+        <hr>
 
         {% if page.comments != false %}
         <div class="text-center">
