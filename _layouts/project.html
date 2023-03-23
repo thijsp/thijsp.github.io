@@ -74,6 +74,22 @@ body_classes: page-project
     </div>
   </div>
 </div>
+<div class="section">
+  <div class="container">
+    <div class="row">
+        <div class="col-6 text-end">
+          {% if page.next.url %}
+              <a href="{{ page.next.url }}">&laquo; {{ page.next.title }}</a>
+          {% endif %}
+        </div>
+        <div class="col-6 text-start">
+          {% if page.previous.url %}
+              <a href="{{ page.previous.url }}">{{ page.previous.title }} &raquo;</a>
+          {% endif %}
+        </div>
+    </div>
+  </div>
+</div>
 
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
 <script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
