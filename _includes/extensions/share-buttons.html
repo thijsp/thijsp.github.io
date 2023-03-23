@@ -1,5 +1,5 @@
 <!-- Basic Share Links -->
-<strong>Share</strong> <br><br>
+<strong>Share</strong><br><br>
 <!-- Twitter (url, text, @mention) -->
 <a href="https://twitter.com/share?url={{ page.url | absolute_url }}&text={{ page.title }}&via=ThijsPeirelinck" target="_blank">
     <i class="fab fa-twitter-square fa-2xl"></i>
@@ -12,6 +12,9 @@
 <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}&title={{ page.title }}&summary={{ page.description }}" target="_blank">
     <i class="fab fa-linkedin fa-2xl"></i>
 </a>
+<!-- Reddit -->
+<a href="http://www.reddit.com/submit?url={{ page.url | absolute_url }}&title={{ page.title }}" target="_blank">
+    <i class="fab fa-reddit-square fa-2xl"></i></a>
 <!-- Whatsapp -->
 {% if include.mail_body %}<a href="https://wa.me/?text={{ include.mail_body }} {{ page.url | absolute_url }}. %0d%0aWhat do you think?" target="_blank">
     <i class="fab fa-whatsapp-square fa-2xl"></i> {% else %} <a href="https://wa.me/?text=Check out this blog post titled '{{ page.title }}' from Thijs: {{ page.url | absolute_url }}. %0d%0aWhat do you think?" target="_blank">
