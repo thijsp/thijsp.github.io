@@ -42,7 +42,7 @@ meta_description: "Privacy-friendly tool to create a border around images, as ty
 	<br>
 	<div class="col-12">
 		<input type="hidden" name="MAX_FILE_SIZE" value="30000" />
-		<label for="myfile">Image:</label><br>
+		<label for="myfile">Image(s):</label><br>
 		<input class="form-control" type="file" id="myfile" name="image" accept="image/jpg,image/jpeg" multiple>
 		<div id="fileHelp" class="form-text" style="color: #d7dade">We'll never save your image on the server.</div>
 	</div>
