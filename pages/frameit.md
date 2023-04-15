@@ -8,7 +8,7 @@ meta_description: "Privacy-friendly tool to create a border around images, as ty
 ---
 ## Fill in frame properties
 
-<form action='{{ site.apiurl }}/frameit-external' method="POST" enctype="multipart/form-data">
+<form action='{{ site.apiurl }}/frameit-external-multiple' method="POST" enctype="multipart/form-data">
 	<div class="row">
 		<div class="col-md-6">
 			<label for="ratio">Ratio:</label><br>
@@ -29,15 +29,21 @@ meta_description: "Privacy-friendly tool to create a border around images, as ty
 		</div>
 	</div>
 	<br>
-	<div class="col-6">
-		<label for="background">Background color:</label><br>
-		<input class="form-control form-control-color custom" id="background" name="background" type="color" value="#ffffff">
-	<br>
+	<div class="row">
+		<div class="col-md-6">
+			<label for="background">Background color:</label><br>
+			<input class="form-control form-control-color custom" id="background" name="background" type="color" value="#ffffff">
+		</div>
+		<div class="col-md-6">
+			<label for="collage"> Collage: </label><br>
+			<input type="checkbox" id="collage" name="collage" value="collage" style="transform: scale(1.5)">
+		</div>
 	</div>
+	<br>
 	<div class="col-12">
 		<input type="hidden" name="MAX_FILE_SIZE" value="30000" />
 		<label for="myfile">Image:</label><br>
-		<input class="form-control" type="file" id="myfile" name="image" accept="image/jpg,image/jpeg">
+		<input class="form-control" type="file" id="myfile" name="image" accept="image/jpg,image/jpeg" multiple>
 		<div id="fileHelp" class="form-text" style="color: #d7dade">We'll never save your image on the server.</div>
 	</div>
 	<br>
