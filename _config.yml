@@ -56,7 +56,8 @@ defaults:
 bucketurl: "https://f003.backblazeb2.com/file/thijsp-blog"
 absbucketurl: ""
 
-apiurl: "https://api.thijspeirelinck.be"
+# apiurl: "https://api.thijspeirelinck.be"
+apiurl: "https://websiteapi.thijsp.repl.co"
 
 # default page image
 image: "/main.jpeg"
