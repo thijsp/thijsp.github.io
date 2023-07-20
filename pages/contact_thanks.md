@@ -13,6 +13,9 @@ meta_title: "Thijs Peirelinck | Energieonderzoeker en Landschapsfotograaf"
 ### Photography
 {% include extensions/photography-links.html %}
 
+### Hikes
+{% include extensions/hike-links.html %}
+
 ### Buy me a coffee
 {% include extensions/donate.html %}
 

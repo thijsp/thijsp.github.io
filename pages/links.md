@@ -14,6 +14,9 @@ meta_description: "Page with all sorts of links to Thijs Peirelinck's online pre
 ### Photography
 {% include extensions/photography-links.html %}
 
+### Hikes
+{% include extensions/hike-links.html %}
+
 ### Buy me a coffee
 {% include extensions/donate.html %}
 
