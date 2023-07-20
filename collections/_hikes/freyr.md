@@ -3,7 +3,7 @@ layout: project-hiking-multi # alternative layouts: project, project-left, proje
 title: "2-Daagse Freyr"
 description: "Een wandeling met bijna 1000 hoogtemeters in België kom je niet elke dag tegen. Deze tocht wordt gebruikt als ingangstest voor het mount coach programma van de belgische klim- en bergsportfederatie (KBF). Het is een stevige dagwandeling met mogelijkheid tot opsplitsing in 2 dagen door een bivak in Freyr."
 meta_description: "Images and description of a two-day hike near Freyr (Dinant) in Belgium."
-date: 2023-01-07
+date: 2023-06-03
 weight: 10
 thumbnail: "/images/2023/freyr/thumbnail.jpg"
 image: "/images/2023/freyr/thumbnail.jpg"
