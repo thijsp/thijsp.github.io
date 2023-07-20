@@ -21,6 +21,9 @@ collections:
   projects:
     output: true
     permalink: /photography/:path/
+  hikes:
+    output: true
+    permalink: /hikes/:path/
   posts:
     output: true
     permalink: /blog/:path/
@@ -29,6 +32,11 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: project
+  - scope:
+      path: ""
+      type: hikes
     values:
       layout: project
   - scope:
@@ -58,9 +66,13 @@ absbucketurl: ""
 
 # apiurl: "https://api.thijspeirelinck.be"
 apiurl: "https://websiteapi.thijsp.repl.co"
+# apiurl: http://127.0.0.1:5000
 
 # default page image
 image: "/main.jpeg"
+
+# categories used to provide filters at the top of hiking page
+hikingfilters: ["Belgium", "Day hike", "Two-day hike", "Multi-day hike"]
 
 # SCSS
 sass:
@@ -186,10 +198,10 @@ footer:
   enable_contact_details: false
   enable_menu_footer_primary: true
   enable_menu_footer_secondary: true
-  enable_menu_footer_tertiary: false
+  enable_menu_footer_tertiary: true
   footer_primary_menu_title: "Photography"
   footer_secondary_menu_title: "Research"
-  footer_tertiary_menu_title: "Other"
+  footer_tertiary_menu_title: "Hikes"
 
 bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)

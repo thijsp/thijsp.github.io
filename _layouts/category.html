@@ -59,3 +59,26 @@ body_classes: page-category
     {% endfor %}
   </div>
 </div>
+
+<div class="section pt-0">
+  <div class="container">
+    {% assign category = page.title %}
+    {% for post in site.hikes reversed %}
+      {% if post.categories contains category %}
+        <div class="row">
+          <div class="col-12 col-md-8 mb-2">
+            {% include theme/cards/card-post.html 
+              title=post.title
+              description=post.description 
+              thumbnail=post.thumbnail 
+              url=post.url
+              distance=post.distance
+              location=post.location
+              style="list"
+            %}
+          </div>
+        </div>
+       {% endif %}
+    {% endfor %}
+  </div>
+</div>

@@ -7,6 +7,8 @@
 {% assign date = include.date %}
 {% assign authors = include.authors %}
 {% assign categories = include.categories %}
+{% assign distance = include.distance %}
+{% assign location = include.location %}
 {% assign style = include.style | default: "column" %}
 {% assign show_read_more = include.show_read_more %}
 {% assign client = include.client %}
@@ -21,7 +23,7 @@
   {% endif %}
 
   <div class="card-content">
-    {% if authors or date %}
+    {% if authors or date or distance %}
       <div class="card-meta">
 
         {% if authors %}
@@ -38,6 +40,12 @@
         {% if date %}
           <div class="card-date">
             <span class="post-date-date">{{ date | date_to_long_string }}</span>
+          </div>
+        {% endif %}
+
+        {% if distance%}
+          <div class="card-date">
+            <span class="post-date-date">{{ distance }} km | {{ location }}</span>
           </div>
         {% endif %}
 
@@ -61,6 +69,7 @@
         <p>{{ description }}</p>
       </div>
     {% endif %}
+
 
     {% if categories %}
       <div class="card-categories mt-auto">

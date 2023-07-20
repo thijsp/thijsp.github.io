@@ -1,0 +1,55 @@
+---
+layout: default
+body_classes: page-post
+---
+
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        {% include framework/blocks/sections/heading.html
+        title=page.title
+        description=page.description
+        %}
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section pt-0">
+  <div class="container">
+    <strong>Filter</strong>
+    <br>
+    <div class="categories">
+    <br>
+    {% include framework/blocks/components/categories-badges.html 
+        categories=site.hikingfilters
+    %}
+    </div>
+  </div>
+</div>
+
+{% assign cards = site.hikes | sort: 'date' | reverse %}
+{% if cards.size > 0 %}
+<div class="section pt-0">
+  <div class="container">
+    <div class="row">
+      {% for card in cards %}
+      <div
+        class="col-12 col-md-6 mb-gutter mt-gutter {% if forloop.first %}mt-0{% endif %} {% if forloop.last %}mb-0{% endif %} mt-md-0">
+        {% include theme/cards/card-project.html
+        title=card.title
+        description=card.description
+        thumbnail=card.thumbnail
+        categories=card.categories
+        date=card.date
+        url=card.url
+        location=card.location
+        distance=card.distance
+        %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% endif %}

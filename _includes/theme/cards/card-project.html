@@ -10,6 +10,7 @@
 {% assign style = include.style | default: "column" %}
 {% assign show_read_more = include.show_read_more %}
 {% assign location = include.location %}
+{% assign distance = include.distance %}
 {% assign thumbnail_size = include.thumbnail_size %}
 
 <div class="card card-project card-{{ style }} {% if thumbnail %}card-has-thumbnail{% endif %} {% if icon or fa_icon %}card-has-icon{% endif %}">
@@ -27,9 +28,15 @@
       </h2>
     </div>
     {% if location %}
+      {% if distance %}
+        <div class="card-client">
+          {{ distance }} km | {{ location }}
+        </div>
+      {% else %}
       <div class="card-client">
         {{ location }}
       </div>
+      {% endif %}
     {% endif %}
   </div>
 </div>
