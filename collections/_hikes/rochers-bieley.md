@@ -2,7 +2,7 @@
 layout: project-hiking-multi # alternative layouts: project, project-left, project-right, project-top
 title: "2-Daagse Rocher Bieley | Eifel, Elsenborn, Monshau"
 description: "Zeer gevarieerde wandeling in de Eifel, met overnachting op de camping in Monschau. Vooral de eerste dag is prachtig. Als kers op de taart gaat het langs Rocher Bieley ofwel de matterhorn ven België."
-meta_description: "Images and description of a two-day hike near Rpchers Bieley"
+meta_description: "Images and description of a two-day hike near Rochers Bieley"
 date: 2023-05-06
 weight: 10
 thumbnail: "/images/2023/bieley/thumbnail.jpg"
