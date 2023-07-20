@@ -26,4 +26,14 @@ projects:
   view_more_button_link: ""
   view_more_button_align: ""
   columns: 2 # 1 | 2 | 3 | 4
+
+projects:
+  heading: "Recent Hikes"
+  sub_heading: ""
+  limit: 2
+  sort: date # date | weight
+  view_more_button_text: "More"
+  view_more_button_link: ""
+  view_more_button_align: ""
+  columns: 2 # 1 | 2 | 3 | 4
 ---
