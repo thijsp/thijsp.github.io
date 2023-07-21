@@ -79,6 +79,12 @@
       margin-bottom: $grid-gutter-width;
       width: 49%;
     }
+    @media screen and (max-width: 700px) {
+      .gallery-item {
+        margin-bottom: $grid-gutter-width;
+        width: 100%;
+      }
+    }
   }
   .gallery-4-3c {
     grid-template-columns: 1fr 1fr 1fr;
@@ -88,6 +94,12 @@
       margin-bottom: $grid-gutter-width;
       width: 32%;
     }
+    @media screen and (max-width: 700px) {
+      .gallery-item {
+        margin-bottom: $grid-gutter-width;
+        width: 100%;
+      }
+    }
   }
   .gallery-4-4c {
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -96,6 +108,12 @@
     .gallery-item {
       margin-bottom: $grid-gutter-width;
       width: 24%;
+    }
+    @media screen and (max-width: 700px) {
+      .gallery-item {
+        margin-bottom: $grid-gutter-width;
+        width: 100%;
+      }
     }
   }
   .content {
