@@ -1,5 +1,24 @@
 <br>
-{% if include.columns == 2 %}
+{% if include.columns == 1 %}
+<div class="project-image">
+  <div class="gallery gallery-1">
+    <div class="gallery-sizer"></div>
+  {% for item in include.gallery limit: limit %}
+    <div class="gallery-item">
+      <div class="gallery-image">
+        {% if item.image %}
+        <img width="1500" height="400" src="{{ site.bucketurl }}/images-low{{ item.image }}" data-src="{{ site.bucketurl | append: item.image }}"/>
+        {% elsif item.video %}
+        <video oncontextmenu="return false;" autoplay loop muted playsinline width="100%" src="{{ site.bucketurl }}/images-low{{ item.video }}" data-src="{{ site.bucketurl | append: item.video }}"/>
+        {% endif %}
+      </div>
+      <div class="gallery-caption">{{ item.caption }}</div>
+    </div>
+  {% endfor %}
+  </div>
+</div>
+
+{% elsif include.columns == 2 %}
 <div class="project-image">
   <div class="gallery gallery-4">
     <div class="gallery-sizer"></div>
