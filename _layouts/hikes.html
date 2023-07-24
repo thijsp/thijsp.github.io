@@ -31,7 +31,7 @@ body_classes: page-post
     <div class="categories">
     {% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'hikes/'"%}
     {% for item in folder1 %}
-      <a href="{{ item.url }}" target="blank">{{item.title}}</a><br>
+      <a href="{{ item.url }}">{{item.title}}</a><br>
     {% endfor %}
     </div>
   </div>
