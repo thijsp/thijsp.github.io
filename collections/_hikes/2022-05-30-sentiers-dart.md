@@ -12,6 +12,7 @@ location: "Condroz, Belgium"
 distance: "142"
 outdooractive: "https://www.outdooractive.com/en/embed/209732030/js?mw=false&usr=4imcb1&key=USR-LKA30EGO-EMWGMIS4-4OSSTG7J"
 map: "https://out.ac/II9jKa"
+info: "https://sentiersdart.be/nl"
 gallery1:
   - image: "/images/2021/sentiersdart/image-1.jpg"
   - image: "/images/2021/sentiersdart/image-2.jpg"
