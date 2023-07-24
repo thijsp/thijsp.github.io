@@ -21,10 +21,18 @@ body_classes: page-post
     <strong>Filter</strong>
     <br>
     <div class="categories">
-    <br>
     {% include framework/blocks/components/categories-badges.html 
         categories=site.hikingfilters
     %}
+    </div>
+    <br>
+    <strong>Collections</strong>
+    <br>
+    <div class="categories">
+    {% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'hikes/'"%}
+    {% for item in folder1 %}
+      <a href="{{ item.url }}" target="blank">{{item.title}}</a><br>
+    {% endfor %}
     </div>
   </div>
 </div>
