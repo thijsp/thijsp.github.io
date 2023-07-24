@@ -10,4 +10,4 @@ hikes:
 ---
 
 Een collectie zeer mooie wandelingen in België.<br>
-Zowel wandeling van 's ochtends vroeg tot 's avonds laat, als rustigere wandelingen voor een halve dag plezier.
+Zowel voor wandelplezier van 's ochtends vroeg tot 's avonds laat, als voor rustigere wandelingen van een halve dag.
