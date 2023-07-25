@@ -7,6 +7,7 @@ outdooractive: "https://www.outdooractive.com/en/embed/273580916/js?mw=false&usr
 hikes:
   - "Hageven Plateau"
   - "ExtraTrail Stavelot (Red)"
+  - "Pont-à-Lesse - Chateau de Walzin - Furfooz - Freyr"
 ---
 
 Een collectie zeer mooie wandelingen in België.<br>
