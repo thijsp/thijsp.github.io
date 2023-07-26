@@ -25,6 +25,19 @@ body_classes: page-project
           </div>
         {% endif %}
 
+        {% assign collections = site.pages | where_exp: "item" , "item.path contains 'hikecollections/'"%}
+        {% if collections.size > 0 %}
+          {% for collection in collections %}
+          {% if collection.hikes contains page.title %}
+            <div class="section pt-0">
+                <div class="hike-collections">
+                  <a href="{{ collection.url }}">{{collection.title}}</a><br>
+                </div>
+            </div>
+          {% endif %}
+          {% endfor %}
+        {% endif %}
+
 <!--         {% if page.date %}
           <div class="project-date">
             <strong>Date </strong><span>{{ page.date | date_to_long_string }}</span>

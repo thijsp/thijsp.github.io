@@ -29,7 +29,7 @@ body_classes: page-post
     <strong>Collections</strong>
     <br>
     <div class="categories">
-    {% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'hikes/'"%}
+    {% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'hikecollections/'"%}
     {% for item in folder1 %}
       <a href="{{ item.url }}">{{item.title}}</a><br>
     {% endfor %}
