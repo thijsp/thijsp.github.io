@@ -39,6 +39,7 @@ gallery1:
   - image: "/images/2021/sentiersdart/image-23.jpg"
   - image: "/images/2021/sentiersdart/image-24.jpg"
   - image: "/images/2021/sentiersdart/image-25.jpg"
+  - image: "/images/2021/sentiersdart/image-26.jpg"
 locale: "en_BE"
 ---
 
