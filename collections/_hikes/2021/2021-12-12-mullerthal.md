@@ -12,7 +12,7 @@ location: "Berdorf, Luxembourg"
 distance: "40"
 outdooractive: "https://www.outdooractive.com/en/embed/58331176/js?mw=false&usr=4imcb1&key=USR-LKA30EGO-EMWGMIS4-4OSSTG7J"
 map: "https://out.ac/J3iKn"
-info: "https://www.extratrail.com/en/stavelot-trail"
+info: "https://www.mullerthal-trail.lu/en/fiche/walking/stage-trail-mullerthal-trail-route-2"
 gallery1:
   - image: "/images/2021/mullerthal/image-1.jpg"
   - image: "/images/2021/mullerthal/image-2.jpg"
