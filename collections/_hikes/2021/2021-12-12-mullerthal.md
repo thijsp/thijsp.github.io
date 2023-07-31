@@ -1,13 +1,13 @@
 ---
 layout: project-hiking-multi # alternative layouts: project, project-left, project-right, project-top
 title: "Mullerthal Trail Route 2"
-description: "Amazing and well known hike in the Mullerthal region of Luxembourg."
+description: "Amazing and well known hike in the Mullerthal region of Luxembourg. Not really in Belgium, but close enough to put it in this category."
 meta_description: "Images and description of the Mullerthal Trail (Route 2) in Luxembourg."
 date: 2021-12-17
 weight: 10
 thumbnail: "/images/2021/mullerthal/thumbnail.jpg"
 image: "/images/2021/mullerthal/thumbnail.jpg"
-categories: ["Belgium", "Day hike"]
+categories: ["Belgium", "Two-day hike"]
 location: "Berdorf, Luxembourg"
 distance: "40"
 outdooractive: "https://www.outdooractive.com/en/embed/58331176/js?mw=false&usr=4imcb1&key=USR-LKA30EGO-EMWGMIS4-4OSSTG7J"
