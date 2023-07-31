@@ -27,7 +27,7 @@ gallery1:
   - image: "/images/2021/mullerthal/image-11.jpg"
 locale: "en_BE"
 ---
-We arrived Friday night and stayed in the hotel in Sheidgen. Saturday morning we started clockwise, passed many cave formation, the famous waterfall and ended in a hotel in Berdorf. The next morning, in Sunday we walked back to the car in Sheidgen.
+We arrived Friday night and stayed in the hotel in Scheidgen. Saturday morning we started clockwise, passed many cave formations, the famous waterfall and ended in a hotel in Berdorf. The next morning, we walked back to the car in Scheidgen.
 
 
 {% include gallery-layout.html gallery=page.gallery1 columns=2 %}
