@@ -7,5 +7,6 @@ outdooractive: "https://www.outdooractive.com/en/embed/273141295/js?mw=false&usr
 hikes:
  - "Ågvatnet | Lofoten"
  - "Munken | Lofoten"
+ - "Kvalika Beach and Ryten Summit | Lofoten"
 ---
 A collection of some of the most beautiful, but not necessarily most popular, hikes on the Lofoten islands.
