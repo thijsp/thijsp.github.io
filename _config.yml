@@ -11,11 +11,25 @@ collections_dir: collections
 # Plugins
 plugins:
   - jekyll-environment-variables
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
 
-paginate: 6
-paginate_path: "/blog/page/:num"
+
+# paginate: 6
+# paginate_path: "/hikes/page/:num"
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 6
+  permalink: '/page/:num/'
+  title: ':title | :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  trail: 
+    before: 2 # The number of links before the current page
+    after: 2  # The number of links after the current page
 
 collections:
   projects:

@@ -7,7 +7,7 @@
 
       {% if paginator.page_trail %}
         {% for trail in paginator.page_trail %}
-          <li class="{% if page.url == trail.path %}pagination-item-current{% endif %}"><a href="{{ trail.path | remove_first: 'index.html' }}" title="{{trail.title}}">{{ trail.num }}</a></li>
+          <li class="{% if page.url == trail.path %}active{% endif %}"><a href="{{ trail.path | remove_first: 'index.html' }}" title="{{trail.title}}">{{ trail.num }}</a></li>
         {% endfor %}
       {% endif %}
 

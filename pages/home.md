@@ -18,7 +18,7 @@ posts:
   columns: 3 # 1 | 2 | 3 | 4
 
 projects:
-  heading: "Photography Projects"
+  heading: "Recent Hikes"
   sub_heading: ""
   limit: 2
   sort: date # date | weight
@@ -28,7 +28,7 @@ projects:
   columns: 2 # 1 | 2 | 3 | 4
 
 projects:
-  heading: "Recent Hikes"
+  heading: "Photography Projects"
   sub_heading: ""
   limit: 2
   sort: date # date | weight

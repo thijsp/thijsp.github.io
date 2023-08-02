@@ -16,6 +16,35 @@ body_classes: page-home
   </div>
 </div>
 
+{% assign cards = site.hikes | sort: 'date' | reverse %}
+{% if cards.size > 0 %}
+<div class="section bg-base-bg-2">
+  <div class="container">
+    <div class="row">
+      {% include framework/blocks/components/grid-header.html heading="Recent Hikes" %}
+      {% for card in cards limit: 2 %}
+      <div
+        class="col-12 col-md-6 mb-gutter mt-gutter {% if forloop.first %}mt-0{% endif %} {% if forloop.last %}mb-0{% endif %} mt-md-0">
+        {% include theme/cards/card-project.html
+        title=card.title
+        description=card.description
+        thumbnail=card.thumbnail
+        categories=card.categories
+        date=card.date
+        url=card.url
+        client=card.client
+        distance=card.distance
+        location=card.location
+        %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<br>
+
 {% assign cards = site.posts %}
 {% if cards.size > 0 %}
 <div class="section bg-base-bg-2">
@@ -92,33 +121,6 @@ body_classes: page-home
 {% endif %}
 
 <br>
-
-{% assign cards = site.hikes | sort: 'date' | reverse %}
-{% if cards.size > 0 %}
-<div class="section bg-base-bg-2">
-  <div class="container">
-    <div class="row">
-      {% include framework/blocks/components/grid-header.html heading="Recent Hikes" %}
-      {% for card in cards limit: 2 %}
-      <div
-        class="col-12 col-md-6 mb-gutter mt-gutter {% if forloop.first %}mt-0{% endif %} {% if forloop.last %}mb-0{% endif %} mt-md-0">
-        {% include theme/cards/card-project.html
-        title=card.title
-        description=card.description
-        thumbnail=card.thumbnail
-        categories=card.categories
-        date=card.date
-        url=card.url
-        client=card.client
-        distance=card.distance
-        location=card.location
-        %}
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-</div>
-{% endif %}
 
 {% if site.mailchimp.form_action_url %}
 {% if page.subscribe %}
