@@ -20,12 +20,18 @@
   timestamps:
   - 20/07/2023 - 14:20
   - 20/07/2023 - 13:13
+/hikes/2023/lofoten/2023-07-01-agvatnet/:
+  count: 1
+  timestamps:
+  - 02/08/2023 - 15:08
 /hikes/2023/lofoten/2023-07-04-munken/:
   count: 2
   timestamps:
   - 28/07/2023 - 15:06
   - 30/07/2023 - 07:25
 /hikes/2023/lofoten/2023-07-06-kvalvika-ryten/:
-  count: 1
+  count: 3
   timestamps:
   - 01/08/2023 - 09:08
+  - 02/08/2023 - 14:58
+  - 02/08/2023 - 15:19
