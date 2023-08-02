@@ -9,6 +9,7 @@ _site
 .jekyll-metadata
 .sass-cache
 .jekyll-cache
+.Gemfile.lock
 
 # Temporary files
 tmp
@@ -24,3 +25,8 @@ Thumbs.db
 # Files that might appear on external disks
 .Spotlight-V100
 .Trashes
+
+# replit
+.replit
+replit.nix
+.bundle
