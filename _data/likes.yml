@@ -20,6 +20,10 @@
   timestamps:
   - 20/07/2023 - 14:20
   - 20/07/2023 - 13:13
+/hikes/2023/lofoten/2023-07-01-agvatnet/:
+  count: 1
+  timestamps:
+  - 02/08/2023 - 15:08
 /hikes/2023/lofoten/2023-07-04-munken/:
   count: 2
   timestamps:
