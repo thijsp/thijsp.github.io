@@ -9,7 +9,7 @@ _site
 .jekyll-metadata
 .sass-cache
 .jekyll-cache
-.Gemfile.lock
+Gemfile.lock
 
 # Temporary files
 tmp
