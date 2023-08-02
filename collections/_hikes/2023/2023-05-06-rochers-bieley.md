@@ -21,7 +21,9 @@ gallery1:
 locale: "en_BE"
 ---
 
-Start op een kleine parking in de buurt van Rocherath. Vandaar gaat het richting het militaire domein van Elsenborn. Opgelet: deze wandeling kan enkel gedaan worden indien er geen militaire oefening plaatsvindt in Elsenborn (<a href="https://www.mil.be/nl/agenda/militaire-oefeningen/" target="_blank">Meer info</a>, onder militaire schietoefeningen > agenda). Vandaar gaat het naar Rocher Bieley en tot aan de camping in Monschau. De tweede dag een stukje langs dezelfde weg terug tot uit Monschau om nadien via een andere route terug naar de parking te gaan.
+Start op een kleine parking in de buurt van Rocherath. Vandaar gaat het richting het militaire domein van Elsenborn. Opgelet: deze wandeling kan enkel gedaan worden indien er geen militaire oefening plaatsvindt in Elsenborn (<a href="https://www.mil.be/nl/agenda/militaire-oefeningen/" target="_blank">Meer info</a>, onder militaire schietoefeningen > agenda). Vandaar gaat het naar Rocher Bieley en tot aan de camping in Monschau. De tweede dag een stukje langs dezelfde weg terug tot uit Monschau om nadien via een andere route terug naar de parking te gaan. 
+
+Deze wandeling is mooi in elk seizoen, maar in de lente is de kans groot dat je langs vele wilde narcissen komt.
 
 {% include gallery-layout.html gallery=page.gallery1 columns=2 %}
 
