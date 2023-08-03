@@ -8,5 +8,6 @@ hikes:
  - "Ågvatnet | Lofoten"
  - "Munken | Lofoten"
  - "Kvalika Beach and Ryten Summit | Lofoten"
+ - "Offersøykammen | Lofoten"
 ---
 A collection of some of the most beautiful, but not necessarily most popular, hikes on the Lofoten islands.
