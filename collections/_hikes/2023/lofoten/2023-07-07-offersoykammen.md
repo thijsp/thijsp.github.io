@@ -7,7 +7,7 @@ date: 2023-07-07
 weight: 10
 thumbnail: "/images/2023/lofoten/offersoykammen/image-7.jpg"
 image: "/images/2023/lofoten/offersoykammen/image-7.jpg"
-categories: ["Lofoten", "Day hike", "Norway"]
+categories: ["Lofoten", "Day hike", "Norway", "Timelapse"]
 location: "Offersøykammen, Norway"
 distance: "3"
 outdooractive: "https://www.outdooractive.com/en/embed/273205960/js?mw=false&usr=4imcb1&key=USR-LKA30EGO-EMWGMIS4-4OSSTG7J"

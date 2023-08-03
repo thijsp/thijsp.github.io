@@ -7,7 +7,7 @@ date: 2022-05-30
 weight: 10
 thumbnail: "/images/2021/sentiersdart/thumbnail.jpg"
 image: "/images/2021/sentiersdart/thumbnail.jpg"
-categories: ["Belgium", "Multi-day hike"]
+categories: ["Belgium", "Multi-day hike", "Timelapse"]
 location: "Condroz, Belgium"
 distance: "142"
 outdooractive: "https://www.outdooractive.com/en/embed/209732030/js?mw=false&usr=4imcb1&key=USR-LKA30EGO-EMWGMIS4-4OSSTG7J"

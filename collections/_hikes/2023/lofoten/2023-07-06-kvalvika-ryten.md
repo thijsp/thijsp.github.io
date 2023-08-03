@@ -7,7 +7,7 @@ date: 2023-07-06
 weight: 10
 thumbnail: "/images/2023/lofoten/kvalvika/image-02.jpg"
 image: "/images/2023/lofoten/kvalvika/image-02.jpg"
-categories: ["Lofoten", "Day hike", "Two-day hike", "Norway"]
+categories: ["Lofoten", "Day hike", "Two-day hike", "Norway", "Timelapse"]
 location: "Fredvang, Norway"
 distance: "10"
 outdooractive: "https://www.outdooractive.com/en/embed/273200891/js?mw=false&usr=4imcb1&key=USR-LKA30EGO-EMWGMIS4-4OSSTG7J"
