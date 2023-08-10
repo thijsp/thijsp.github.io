@@ -8,6 +8,7 @@ hikes:
   - "Hageven Plateau"
   - "ExtraTrail Stavelot (Red)"
   - "Pont-à-Lesse - Chateau de Walzin - Furfooz - Freyr"
+  - "Promenade de la Hoëgne"
 ---
 
 Een collectie zeer mooie wandelingen in België.<br>

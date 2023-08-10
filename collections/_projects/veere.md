@@ -22,6 +22,9 @@ gallery:
   - video: "/images/2023/veere/TL-2.mp4"
   - image: "/images/2023/veere/veere-10.jpg"
   - image: "/images/2023/veere/veere-11.jpg"
+  - image: "/images/2023/veere/image-3.jpg"
+  - image: "/images/2023/veere/image-1.jpg"
+  - image: "/images/2023/veere/image-2.jpg"
 locale: "en_BE"
 ---
 

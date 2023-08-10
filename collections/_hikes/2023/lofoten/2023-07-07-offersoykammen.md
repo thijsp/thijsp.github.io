@@ -26,7 +26,7 @@ gallery2:
   - image: "/images/2023/lofoten/offersoykammen/image-4.jpg"
 locale: "en_BE"
 ---
-Start from the cabins lower down, or from the road. Follow the clear path straight up to the summit and enjoy the 360 panorama at the top. On the way down you can make a loop passing by a small lake. This avoids having to follow to same path in both directions.
+Start from the cabins lower down, or from the road. Follow the clear path straight up to the summit and enjoy the 360 panorama at the top. On the way down you can make a loop passing by a small lake. This avoids having to follow the same path in both directions.
 
 For Lofoten standards this hike definetely has a very good reward/effort ratio!
 
