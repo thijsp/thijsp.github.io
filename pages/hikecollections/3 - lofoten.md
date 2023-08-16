@@ -9,5 +9,6 @@ hikes:
  - "Munken | Lofoten"
  - "Kvalika Beach and Ryten Summit | Lofoten"
  - "Offersøykammen | Lofoten"
+ - "Kongstinden | Lofoten"
 ---
 A collection of some of the most beautiful, but not necessarily most popular, hikes on the Lofoten islands.
