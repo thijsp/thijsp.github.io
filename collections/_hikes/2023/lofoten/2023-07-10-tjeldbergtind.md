@@ -22,4 +22,4 @@ It is possible to start from a small parking lot next to the E10, or from the ce
 
 The hike is straightforward and relatively easy for Lofoten standards.
 
-{% include gallery-layout.html gallery=page.gallery2 columns=1 %}
+{% include gallery-layout.html gallery=page.gallery1 columns=2 %}

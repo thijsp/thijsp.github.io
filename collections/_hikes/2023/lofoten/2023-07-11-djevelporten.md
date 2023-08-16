@@ -22,4 +22,4 @@ The trailhead for this spectacular hike is just minutes from downtown Svolvær i
 
 Do you dare to stand on the rock?
 
-{% include gallery-layout.html gallery=page.gallery2 columns=1 %}
+{% include gallery-layout.html gallery=page.gallery1 columns=2 %}

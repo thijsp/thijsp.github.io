@@ -22,4 +22,4 @@ Climb one of the most prominent mountains visible from the centre of Svolvær. T
 
 Starting from the city centre of Svolvær, hike towards to E10 and go over the bridge. From here, follow the lake's shore. After a second (small) bridge take the very small path in between the boulders. The path gradually gets more steep. In the end, on the col after Lille Kongstinden, it is quite narrow and there is vertical drop on both sides. You'll be rewarded with an amazing view, not only towards the city but also on the opposite direction.
 
-{% include gallery-layout.html gallery=page.gallery2 columns=1 %}
+{% include gallery-layout.html gallery=page.gallery1 columns=2 %}
