@@ -1,6 +1,6 @@
 ---
 layout: project-hiking-multi # alternative layouts: project, project-left, project-right, project-top
-title: "Tjeldbergtinden | Lofoten"
+title: "Tjeldbergtind | Lofoten"
 description: "Wonderfull hike to the top of Tjeldbergtind and back."
 meta_description: "Images and description of the hike to the summit of Tjeldbergtind (Svolvaer) on the Lofoten islands in Norway."
 date: 2023-07-10
