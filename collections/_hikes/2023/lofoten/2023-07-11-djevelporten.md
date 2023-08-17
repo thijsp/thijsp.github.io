@@ -5,8 +5,8 @@ description: "Wonderfull hike to the famous Djevelporten landmark and back."
 meta_description: "Images and description of the hike to Djevelporten (Svolvaer) on the Lofoten islands in Norway."
 date: 2023-07-11
 weight: 10
-thumbnail: "/images/2023/lofoten/djevelporten/image-1.jpg"
-image: "/images/2023/lofoten/djevelporten/image-1.jpg"
+thumbnail: "/images/2023/lofoten/djevelporten/image-4.jpg"
+image: "/images/2023/lofoten/djevelporten/image-4.jpg"
 categories: ["Lofoten", "Day hike", "Norway"]
 location: "Svolvaer, Norway"
 distance: "3"
