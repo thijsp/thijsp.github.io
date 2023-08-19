@@ -35,11 +35,11 @@ meta_description: "Privacy-friendly tool to create a border around images, as ty
 			<label for="background">Background color:</label><br>
 			<input class="form-control form-control-color custom" id="background" name="background" type="color" value="#ffffff">
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-3">
 			<label for="collage"> Collage: </label><br>
 			<input type="checkbox" id="collage" name="collage" value="collage" style="transform: scale(1.5)">
 		</div>
-    <div class="col-md-6">
+    <div class="col-md-3">
 			<label for="Black Border"> Black Border: </label><br>
 			<input type="checkbox" id="blackborder" name="blackborder" value="blackborder" style="transform: scale(1.5)">
 		</div>
