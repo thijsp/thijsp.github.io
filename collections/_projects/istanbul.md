@@ -18,7 +18,6 @@ gallery:
   - image: "/images/2023/istanbul/image-07.jpg"
   - image: "/images/2023/istanbul/image-08.jpg"
   - image: "/images/2023/istanbul/image-09.jpg"
-  - image: "/images/2023/istanbul/image-10.jpg"
   - image: "/images/2023/istanbul/image-11.jpg"
   - image: "/images/2023/istanbul/image-12.jpg"
   - image: "/images/2023/istanbul/image-13.jpg"
