@@ -4,8 +4,8 @@ title: "Ancona"
 description: "One month in Ancona"
 date: 2023-04-01
 weight: 10
-thumbnail: "/images/2023/ancona/Photos/image-12.jpg"
-image: "/images/2023/ancona/Photos/image-12.jpg"
+thumbnail: "/images/2023/ancona/Photos/image-19.jpg"
+image: "/images/2023/ancona/Photos/image-19.jpg"
 categories: ["Photography", "Travel"]
 location: "Ancona, Italy"
 gallery:
