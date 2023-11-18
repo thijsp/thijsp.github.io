@@ -23,3 +23,4 @@ gallery:
   - image: "/images/2023/amsterdam/image-12.jpg"
 locale: "en_BE"
 ---
+Autumn in Amsterdam.
