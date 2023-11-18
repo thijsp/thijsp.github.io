@@ -4,8 +4,8 @@ title: "Istanbul"
 description: "One month in Ancona"
 date: 2023-11-16
 weight: 10
-thumbnail: "/images/2023/istanbul/image-01.jpg"
-image: "/images/2023/istanbul/image-01.jpg"
+thumbnail: "/images/2023/istanbul/image-1.jpg"
+image: "/images/2023/istanbul/image-1.jpg"
 categories: ["Photography", "Travel"]
 location: "Istanbul, Turkey"
 gallery:
