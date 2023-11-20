@@ -8,6 +8,7 @@ meta_title: "Publications and CV | Thijs Peirelinck"
 
 ## Publications
 
+* S. Zhang, K. Thoelen, T. Peirelinck, G. Deconinck, *"<a href="https://ieeexplore.ieee.org/abstract/document/10202958" target="\_blank">Trade-Off Selection of Data-Driven Methods for EV Demand Forecasting in a Real Office Environment</a>"*, 2023 IEEE PowerTech, 2023
 * T. Peirelinck, C. Hermans, F. Spiessens, G. Deconinck, *"<a href="https://arxiv.org/abs/2211.14831" target="\_blank">Combined Peak Reduction and Self-Consumption Using Proximal Policy Optimization</a>"*, arXiv preprint arXiv:2211.14831, 2022
 * T. Peirelinck, *"<a href="https://lirias.kuleuven.be/3700338?limo=0" target="\_blank">Reinforcement Learning with Knowledge Transfer for Residential Demand Response</a>"*, PhD Thesis KU Leuven, 2022
 * T. Peirelinck, H. Kazmi, B.V. Mbuwir, C. Hermans, F. Spiessens, J. Suykens, G. Deconinck, *"<a href="https://www.sciencedirect.com/science/article/pii/S2666546821000732" target="\_blank">Transfer learning in demand response: A review of algorithms for data-efficient modelling and control</a>"*, Energy and AI 7, 100126, 2022
@@ -22,7 +23,10 @@ Or see <a href="https://scholar.google.com/citations?user=Zfy4dswAAAAJ&hl=en" ta
 
 ## CV
 
-* **2022 - Present**<br>
+* **2023 - Present**<br>
+  Quantitative Developer, Centrica. <br>
+  Designing, implementing and deploying the next generation of residential demand response algorithms. In close collaboration with research centre's across the globe.
+* **2022 - 2023**<br>
   Post Doctoral researcher at KU Leuven. <br>
   Working on smart charging solutions for the future of electric vehicles.
 * **2017 - 2022**<br>
