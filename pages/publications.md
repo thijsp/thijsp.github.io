@@ -8,6 +8,7 @@ meta_title: "Publications and CV | Thijs Peirelinck"
 
 ## Publications
 
+* S. Zhang, K. Thoelen, T. Peirelinck, G. Deconinck, *"<a href="https://www.sciencedirect.com/science/article/abs/pii/S2210670724002208" target="\_blank">Accelerating a consensus-based EV smart charging algorithm by user priority clustering</a>"*, 2024 Sustainable Cities and Society, 2024
 * T. Peirelinck, C. Hermans, F. Spiessens, G. Deconinck, *"<a href="https://www.sciencedirect.com/science/article/pii/S2666546823000952?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=45079238&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM431241&utm_source=AC_" target="\_blank">Combined Peak Reduction and Self-Consumption using Proximal Policy Optimization</a>"*, Energy and AI, 100323, 2023
 * S. Zhang, K. Thoelen, T. Peirelinck, G. Deconinck, *"<a href="https://ieeexplore.ieee.org/abstract/document/10202958" target="\_blank">Trade-Off Selection of Data-Driven Methods for EV Demand Forecasting in a Real Office Environment</a>"*, 2023 IEEE PowerTech, 2023
 * T. Peirelinck, C. Hermans, F. Spiessens, G. Deconinck, *"<a href="https://arxiv.org/abs/2211.14831" target="\_blank">Combined Peak Reduction and Self-Consumption Using Proximal Policy Optimization</a>"*, arXiv preprint arXiv:2211.14831, 2022
