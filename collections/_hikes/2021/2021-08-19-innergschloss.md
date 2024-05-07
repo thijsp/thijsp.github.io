@@ -1,31 +1,36 @@
 ---
 layout: project-hiking-multi # alternative layouts: project, project-left, project-right, project-top
-title: "Innergschlöss Glacier Trail | Hohe Tauern"
-description: "Amazing hike up to the a beautiful glacier in the Venediger mountain range."
-date: 2021-08-19
+title: "Stüdlhütte | Hohe Tauern"
+description: "Two day hike with an overnight stay in the iconic Stüdlhütte."
+date: 2021-08-17
 weight: 10
-thumbnail: "/images/2021/innerschloss/thumbnail.jpg"
-image: "/images/2021/innerschloss/thumbnail.jpg"
-categories: ["Austria", "Day hike"]
+thumbnail: "/images/2021/studlhutte/thumbnail.jpg"
+image: "/images/2021/studlhutte/thumbnail.jpg"
+categories: ["Austria", "Two-day hike"]
 location: "East Tyrol, Austria"
-distance: "9"
-outdooractive: "https://www.outdooractive.com/en/embed/7826727/js?mw=false&usr=4imcb1&key=USR-LKA30EGO-EMWGMIS4-4OSSTG7J"
-map: "https://out.ac/ZIBnx"
+distance: "15"
+outdooractive: "https://www.outdooractive.com/en/embed/291871665/js?mw=false&usr=4imcb1&key=USR-LKA30EGO-EMWGMIS4-4OSSTG7J"
+map: "https://out.ac/ITRP9H"
 gallery1:
-  - image: "/images/2021/innerschloss/image-1.jpg"
-  - image: "/images/2021/innerschloss/image-2.jpg"
-  - image: "/images/2021/innerschloss/image-3.jpg"
-  - image: "/images/2021/innerschloss/image-4.jpg"
-  - image: "/images/2021/innerschloss/image-5.jpg"
-  - image: "/images/2021/innerschloss/image-6.jpg"
-  - image: "/images/2021/innerschloss/image-7.jpg"
-  - image: "/images/2021/innerschloss/image-8.jpg"
+  - image: "/images/2021/studlhutte/image-1.jpg"
+  - image: "/images/2021/studlhutte/image-2.jpg"
+  - image: "/images/2021/studlhutte/image-3.jpg"
+  - image: "/images/2021/studlhutte/image-4.jpg"
+  - image: "/images/2021/studlhutte/image-5.jpg"
+  - image: "/images/2021/studlhutte/image-6.jpg"
+  - image: "/images/2021/studlhutte/image-7.jpg"
+  - image: "/images/2021/studlhutte/image-8.jpg"
+  - image: "/images/2021/studlhutte/image-9.jpg"
+  - image: "/images/2021/studlhutte/image-10.jpg"
+  - image: "/images/2021/studlhutte/image-11.jpg"
 
 locale: "en_BE"
 ---
-The glacier nature trail is a challenging but by no means impossible route that gives visitors a deeper insight into the nature of glacier-formed mountain masses.
+Park at the Lucknerhaus, keep in mind the final stretch of the road is payed. Start the hike in the direction of the Lucknerhutte. From there it is a rather steep path towards the Stüdlhütte. If you only want to arrive in the hut by late afternoon, it is possible to leave just before lunch at the parking.
 
-In the heart of the Hohe Tauern National Park, you hike through one of the most beautiful valleys in the Eastern Alps. Gigantic glacial forces once shaped this landscape and here in the Hohe Tauern they are still at work. Experience the impressive world of the glacier foreland and its pioneer vegetation. The Salzbodensee, the Eye of God, which is usually adorned with an island of cotton grass, the imposing glacier polish and the Schlatenkees are just some of the highlights of the tour. The 24 observation points along the glacier show trail and the accompanying booklet (available at the "Venedigerhaus" inn in Innergschlöss) help you to understand the dynamics of the glaciers that characterise the landscape.
+The next morning walk towards the Glorer Hütte. You can choose to either go over the very steep col, or follow a black trail. We opted for the black trail, some sure footedness is needed. 
+
+Take a relaxing break in the hut. Afterwards, the final descent towards the car park starts.
 
 {% include gallery-layout.html gallery=page.gallery1 columns=2 %}
 
