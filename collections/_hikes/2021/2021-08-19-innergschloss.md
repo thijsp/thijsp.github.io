@@ -30,7 +30,7 @@ Park at the Lucknerhaus, keep in mind the final stretch of the road is payed. St
 
 The next morning walk towards the Glorer Hütte. You can choose to either go over the very steep col, or follow a black trail. We opted for the black trail, some sure footedness is needed. 
 
-Take a relaxing break in the hut. We even spotted a beardedvulture from the hut! Afterwards, the final descent towards the car park starts.
+Take a relaxing break in the hut. We even spotted a bearded vulture from the hut! Afterwards, the final descent towards the car park starts.
 
 {% include gallery-layout.html gallery=page.gallery1 columns=2 %}
 
