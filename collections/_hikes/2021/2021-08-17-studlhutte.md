@@ -2,11 +2,11 @@
 layout: project-hiking-multi # alternative layouts: project, project-left, project-right, project-top
 title: "Innergschlöss Glacier Trail | Hohe Tauern"
 description: "Amazing hike up to the a beautiful glacier in the Venediger mountain range."
-date: 2021-08-19
+date: 2021-08-17
 weight: 10
 thumbnail: "/images/2021/innerschloss/thumbnail.jpg"
 image: "/images/2021/innerschloss/thumbnail.jpg"
-categories: ["Austria", "Day hike"]
+categories: ["Austria", "Day hike", "Two-day hike"]
 location: "East Tyrol, Austria"
 distance: "9"
 outdooractive: "https://www.outdooractive.com/en/embed/7826727/js?mw=false&usr=4imcb1&key=USR-LKA30EGO-EMWGMIS4-4OSSTG7J"
