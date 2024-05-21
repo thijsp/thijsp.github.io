@@ -1,6 +1,6 @@
 ---
 layout: project # alternative layouts: project, project-left, project-right, project-top
-title: "Summer in Dordogne | France"
+title: "Summer in Dordogne"
 description: "Summer canoe trip to france."
 date: 2023-09-10
 weight: 10
@@ -29,4 +29,4 @@ gallery:
   - image: "/images/2023/dordogne/image-18.jpg"
 locale: "en_BE"
 ---
-Summer on the Dordogne.
+Why not bring a camera to a summer canoe trip on the Dordogne. Well, I could name a few reasons why not to, but I'm glad I did bring one.
