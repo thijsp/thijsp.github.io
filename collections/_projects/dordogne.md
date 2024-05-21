@@ -29,4 +29,5 @@ gallery:
   - image: "/images/2023/dordogne/image-18.jpg"
 locale: "en_BE"
 ---
-Why not bring a camera to a summer canoe trip on the Dordogne. Well, I could name a few reasons why not to, but I'm glad I did bring one.
+Why not bring a camera to a summer canoe trip on the Dordogne? 
+Well, I could name a few reasons why not to, but I'm glad I did bring one.
