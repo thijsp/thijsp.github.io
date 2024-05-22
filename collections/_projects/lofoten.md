@@ -6,7 +6,7 @@ date: 2023-07-01
 weight: 10
 thumbnail: "/images/2023/lofoten/photography/thumbnail.jpg"
 image: "/images/2023/lofoten/photography/thumbnail.jpg"
-categories: ["Photography", "Norway", "Travel"]
+categories: ["Photography", "Norway", "Travel", "Landscapes"]
 location: "Lofoten, Norway"
 gallery:
   - image: "/images/2023/lofoten/photography/image-01.jpg"
