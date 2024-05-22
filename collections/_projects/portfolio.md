@@ -31,6 +31,18 @@ gallery:
   - image: "/images/portfolio/portfolio-20.jpg"
   - image: "/images/portfolio/portfolio-21.jpg"
   - image: "/images/portfolio/portfolio-22.jpg"
+  - image: "/images/portfolio/portfolio-23.jpg"
+  - image: "/images/portfolio/portfolio-24.jpg"
+  - image: "/images/portfolio/portfolio-25.jpg"
+  - image: "/images/portfolio/portfolio-26.jpg"
+  - image: "/images/portfolio/portfolio-27.jpg"
+  - image: "/images/portfolio/portfolio-28.jpg"
+  - image: "/images/portfolio/portfolio-29.jpg"
+  - image: "/images/portfolio/portfolio-30.jpg"
+  - image: "/images/portfolio/portfolio-31.jpg"
+  - image: "/images/portfolio/portfolio-32.jpg"
+  - image: "/images/portfolio/portfolio-33.jpg"
+  - image: "/images/portfolio/portfolio-34.jpg"
 locale: "en_BE"
 ---
 
