@@ -50,4 +50,4 @@ locale: "en_BE"
 Lofoten is breathtaking. 
 Literally, because of the streneuous hikes. Figuratively, because of the amazing views. 
 
-[Click here]({{ site.baseurl }}{% link "pages/hikecollections/3 - lofoten.md" %}) to view a description of the most amazing hikes we did while travelling across the islands.
+[Click here]({{ site.baseurl }}{% link hikes/hikecollections/lofoten %}) to view a description of the most amazing hikes we did while travelling across the islands.
