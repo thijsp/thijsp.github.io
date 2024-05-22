@@ -6,7 +6,7 @@ date: 2023-09-10
 weight: 10
 thumbnail: "/images/2023/dordogne/thumbnail.jpg"
 image: "/images/2023/dordogne/thumbnail.jpg"
-categories: ["Photography", "Travel"]
+categories: ["Photography", "France", "Travel"]
 location: "Dordogne, France"
 gallery:
   - image: "/images/2023/dordogne/image-03.jpg"
