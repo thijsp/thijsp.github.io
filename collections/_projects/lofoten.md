@@ -21,6 +21,7 @@ gallery:
   - image: "/images/2023/lofoten/photography/image-10.jpg"
   - image: "/images/2023/lofoten/photography/image-11.jpg"
   - image: "/images/2023/lofoten/photography/image-12.jpg"
+  - image: "/images/2023/lofoten/photography/image-37.jpg"
   - image: "/images/2023/lofoten/photography/image-13.jpg"
   - image: "/images/2023/lofoten/photography/image-14.jpg"
   - image: "/images/2023/lofoten/photography/image-15.jpg"
