@@ -15,6 +15,7 @@ map: "https://out.ac/ILcJSB"
 gallery1:
   - image: "/images/2023/bieley/image-1.jpg"
   - image: "/images/2023/bieley/image-2.jpg"
+  - image: "/images/2023/bieley/image-6.jpg"
   - image: "/images/2023/bieley/image-3.jpg"
   - image: "/images/2023/bieley/image-4.jpg"
   - image: "/images/2023/bieley/image-5.jpg"
