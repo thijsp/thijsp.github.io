@@ -5,8 +5,8 @@ description: "A circular hike, starting in Mürren, passing by the Rotstockhütt
 meta_description: "Images and description of a beautiful hike close to Mürren and Gimmewald."
 date: 2024-06-25
 weight: 10
-thumbnail: "/images/2024/rotstockhutte/mage-13.jpg"
-image: "/images/2024/rotstockhutte/mage-13.jpg"
+thumbnail: "/images/2024/rotstockhutte/image-13.jpg"
+image: "/images/2024/rotstockhutte/image-13.jpg"
 categories: [Day hike"]
 location: "Lauterbrunnen, Switzerland"
 distance: "12"
