@@ -19,7 +19,7 @@ gallery1:
   - image: "/images/2024/lobhornhutte/image-04.jpg"
   - image: "/images/2024/lobhornhutte/image-05.jpg"
   - image: "/images/2024/lobhornhutte/image-06.jpg"
-  - video: "/images/2024/lobhornhutte/video-01.jpg"
+  - video: "/images/2024/lobhornhutte/video-01.mp4"
   - image: "/images/2024/lobhornhutte/image-07.jpg"
   - image: "/images/2024/lobhornhutte/image-08.jpg"
   - image: "/images/2024/lobhornhutte/image-09.jpg"
