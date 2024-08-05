@@ -9,7 +9,7 @@ thumbnail: "/images/2024/lobhornhutte/image-07.jpg"
 image: "/images/2024/lonhornhutte/image-07.jpg"
 categories: ["Day hike", "Switzerland"]
 location: "Lauterbrunnen, Switzerland"
-distance: "44"
+distance: "10"
 outdooractive: "https://www.outdooractive.com/en/embed/298791777/js?mw=false&usr=4imcb1&key=USR-LKA30EGO-EMWGMIS4-4OSSTG7J"
 map: "https://out.ac/IVA7IT"
 gallery1:
