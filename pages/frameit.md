@@ -48,6 +48,11 @@ meta_description: "Privacy-friendly tool to create a border around images, as ty
 	</div>
 	<br>
 	<div class="col-12">
+		<label for="margin" >Border width: </label><br>
+		<input class="form-range mb-3" type="range" value="30" style="width:100%" id="margin" name="margin" min="0" max="100">
+	</div>
+	<br>
+	<div class="col-12">
 		<input type="hidden" name="MAX_FILE_SIZE" value="30000" />
 		<label for="myfile">Image(s):</label><br>
 		<input class="form-control" type="file" id="myfile" name="image" accept="image/jpg,image/jpeg" multiple>
