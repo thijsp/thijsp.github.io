@@ -15,6 +15,7 @@ meta_description: "Privacy-friendly tool to create a border around images, as ty
 			<select class="form-select" name="ratio" id="ratio">
 				<option value="sq">Square (1:1)</option>
 				<option value="45">Insta Vertical (4:5)</option>
+				<option value="54">Insta Horizontal (5:4)</option>
 				<option value="vert">Insta Story (9:16)</option>
 				<option value="32"> Horizontal (3:2)</option>
         <option value="4:5 pano_crop"> Vertical Insta Pano Crop</option>
