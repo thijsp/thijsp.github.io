@@ -79,10 +79,10 @@ bucketurl: "https://f003.backblazeb2.com/file/thijsp-blog"
 absbucketurl: ""
 
 # apiurl: "https://website-api-thijsp.replit.app"
-# apiurl: "https://api.thijspeirelinck.be"
+apiurl: "https://api.thijspeirelinck.be"
 # apiurl: "https://websiteapi.thijsp.repl.co"
 # apiurl: http://127.0.0.1:5000
-apiurl: "https://74ebf454-28f5-41d6-8891-2e1af4799081-00-2ncs2a95zju20.picard.replit.dev:3000/"
+# apiurl: "https://74ebf454-28f5-41d6-8891-2e1af4799081-00-2ncs2a95zju20.picard.replit.dev:3000/"
 
 # default page image
 image: "/main.jpeg"
