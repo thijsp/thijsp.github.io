@@ -17,7 +17,8 @@ meta_description: "Privacy-friendly tool to create a border around images, as ty
 				<option value="45">Insta Vertical (4:5)</option>
 				<option value="vert">Insta Story (9:16)</option>
 				<option value="32"> Horizontal (3:2)</option>
-        <option value="pano_crop"> 4:5 Insta Pano Crop</option>
+        <option value="4:5 pano_crop"> Vertical Insta Pano Crop</option>
+		<option value="5:4 pano_crop"> Horizontal Insta Pano Crop</option>
 			</select>
 		</div>
 		<div class="col-md-6">
