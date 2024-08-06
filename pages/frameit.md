@@ -49,7 +49,7 @@ meta_description: "Privacy-friendly tool to create a border around images, as ty
 	<br>
 	<div class="col-12">
 		<label for="margin" >Border width: </label><br>
-		<input class="form-range mb-3" type="range" value="30" style="width:100%" id="margin" name="margin" min="0" max="100">
+		<input class="form-range mb-3" type="range" value="5" style="width:100%" id="margin" name="margin" min="0" max="100">
 	</div>
 	<br>
 	<div class="col-12">
