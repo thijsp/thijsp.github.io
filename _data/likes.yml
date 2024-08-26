@@ -15,6 +15,10 @@
   count: 1
   timestamps:
   - 08/05/2024 - 09:08
+/hikes/2021/2021-08-19-studlhutte/:
+  count: 1
+  timestamps:
+  - 26/08/2024 - 10:55
 /hikes/2021/2021-11-02-hoegne/:
   count: 1
   timestamps:
