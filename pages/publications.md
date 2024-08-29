@@ -26,7 +26,7 @@ Or see <a href="https://scholar.google.com/citations?user=Zfy4dswAAAAJ&hl=en" ta
 ## CV
 
 * **2023 - Present**<br>
-  Quantitative Developer, Centrica. <br>
+  Research Engineer, Centrica. <br>
   Designing, implementing and deploying the next generation of residential demand response algorithms. In close collaboration with research centre's across the globe.
 * **2022 - 2023**<br>
   Post Doctoral researcher at KU Leuven. <br>
