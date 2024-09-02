@@ -34,7 +34,7 @@ locale: "en_BE"
 Beautiful circular hike from Mürren to Gimmewald, passing by the spectacularly located Rotstokhütte. Possibility to take the cable cars at the start and end. 
 Amazing view on the high mountains (Eiger, Mönch and Jungfrau) of the Jungfrau region almost the entire time.
 
-Start from the top of the cable car in Mürren and follow the signs of the Northface trail or towards the Rotstokhütte. Mürren is a really beautiful town and relatively popular to visit, a quick stroll is recommended. Once you leave town and start hiking, the crowds quickly dissappear. 
+Start from the top of the cable car in Mürren and follow the signs of the Northface trail or towards the Rotstokhütte. Before doing this, however, Mürren is a really beautiful town and relatively popular to visit, so a quick detour and stroll in town is recommended. Once you leave town and start hiking, the crowds quickly dissappear. 
 Initially, the path stays relatively level and crosses some beautiful alpine meadows. Soon after crossing the Schiltenbach, and passing by Spielbodenalp, a short but strenuous steeper section presents itself. After having conquered this section, the path stays relatively level until the hut. Views along this section are truly amazing. From the hut, go back a bit and take the descending path. Cross a little mountain stream and head into the forest. Descend until arriving at the Sefi-Litschena river. Follow the river until Gimmewald. Just before arriving there is yet another small ascent.
 
 
