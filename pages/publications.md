@@ -8,8 +8,11 @@ meta_title: "Publications and CV | Thijs Peirelinck"
 
 ## Publications
 
+* D. Fernández‐Zapico, T. Peirelinck, G. Deconinck, D.W. Donker, L. Fresiello, *"<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/aor.14845" target="\_blank">Physiological control for left ventricular assist devices based on deep reinforcement learning</a>"*, Artificial Organs, 2024.
 * S. Zhang, K. Thoelen, T. Peirelinck, G. Deconinck, *"<a href="https://www.sciencedirect.com/science/article/abs/pii/S2210670724002208" target="\_blank">Accelerating a consensus-based EV smart charging algorithm by user priority clustering</a>"*, 2024 Sustainable Cities and Society, 2024
 * T. Peirelinck, C. Hermans, F. Spiessens, G. Deconinck, *"<a href="https://www.sciencedirect.com/science/article/pii/S2666546823000952?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=45079238&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM431241&utm_source=AC_" target="\_blank">Combined Peak Reduction and Self-Consumption using Proximal Policy Optimization</a>"*, Energy and AI, 100323, 2023
+* L. Bex, T. Peirelinck, G. Deconinck, *"<a href="https://ieeexplore.ieee.org/abstract/document/10407485" target="\_blank">Seasonal Performance of Fitted Q-iteration for Space Heating and Cooling with Heat Pumps</a>"*, 2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE), 2023
+* T. Peirelinck, K. Thoelen, G. Deconinck, *"<a href="https://ieeexplore.ieee.org/abstract/document/10407161" target="\_blank">Forecasting Sensitivity Analysis of Reinforcement Learning Based Smart Charging</a>"*, 2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE), 2023
 * S. Zhang, K. Thoelen, T. Peirelinck, G. Deconinck, *"<a href="https://ieeexplore.ieee.org/abstract/document/10202958" target="\_blank">Trade-Off Selection of Data-Driven Methods for EV Demand Forecasting in a Real Office Environment</a>"*, 2023 IEEE PowerTech, 2023
 * T. Peirelinck, C. Hermans, F. Spiessens, G. Deconinck, *"<a href="https://arxiv.org/abs/2211.14831" target="\_blank">Combined Peak Reduction and Self-Consumption Using Proximal Policy Optimization</a>"*, arXiv preprint arXiv:2211.14831, 2022
 * T. Peirelinck, *"<a href="https://lirias.kuleuven.be/3700338?limo=0" target="\_blank">Reinforcement Learning with Knowledge Transfer for Residential Demand Response</a>"*, PhD Thesis KU Leuven, 2022
