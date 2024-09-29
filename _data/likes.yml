@@ -23,6 +23,10 @@
   count: 1
   timestamps:
   - 10/08/2023 - 07:08
+/hikes/2021/2021-12-12-mullerthal/:
+  count: 1
+  timestamps:
+  - 29/09/2024 - 21:50
 /hikes/2022/2022-05-30-sentiers-dart/:
   count: 1
   timestamps:
