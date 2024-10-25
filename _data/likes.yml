@@ -75,6 +75,10 @@
   count: 1
   timestamps:
   - 06/06/2024 - 10:50
+/hikes/2024/2024-06-25-rotstockhutte/:
+  count: 1
+  timestamps:
+  - 25/10/2024 - 18:15
 /hikes/2024/2024-06-27-lobhornhutte/:
   count: 1
   timestamps:
