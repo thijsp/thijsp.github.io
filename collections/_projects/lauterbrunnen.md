@@ -6,7 +6,7 @@ date: 2024-07-02
 weight: 10
 thumbnail: "/images/2024/lauterbrunnen/image-07.jpg"
 image: "/images/2024/Lauterbrunnen/image-07.jpg"
-categories: ["Photography", "Travel"]
+categories: ["Photography", "Travel", "Landscapes", "Switzerland"]
 location: "Lauterbrunnen, Switserland"
 gallery:
   - image: "/images/2024/lauterbrunnen/image-01.jpg"
