@@ -21,6 +21,7 @@ gallery:
   - image: "/images/2024/lauterbrunnen/image-10.jpg"
   - image: "/images/2024/lauterbrunnen/image-11.jpg"
   - image: "/images/2024/lauterbrunnen/image-12.jpg"
+  - video: "/images/2024/lobhornhutte/video-01.mp4"
   - image: "/images/2024/lauterbrunnen/image-13.jpg"
   - image: "/images/2024/lauterbrunnen/image-14.jpg"
   - image: "/images/2024/lauterbrunnen/image-15.jpg"
