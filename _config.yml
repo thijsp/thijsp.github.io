@@ -75,8 +75,8 @@ defaults:
 # storage
 # bucketurl: "/assets/images/content"
 # absbucketurl: "https://www.thijspeirelinck.be"
-# bucketurl: "https://f003.backblazeb2.com/file/thijsp-blog"
-bucketurl: "https://media.thijspeirelinck.be"
+bucketurl: "https://f003.backblazeb2.com/file/thijsp-blog"
+# bucketurl: "https://media.thijspeirelinck.be"
 absbucketurl: ""
 
 # apiurl: "https://website-api-thijsp.replit.app"
